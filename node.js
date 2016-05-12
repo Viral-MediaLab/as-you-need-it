@@ -14,6 +14,7 @@ function Node(entity, pos) {
   VerletParticle2D.call(this,pos);
   
   //this.greyColor = color('rgb(60,61,61)')
+  this.highlighted = false;
   this.greyColor = color('rgb(131, 135, 148)')
   this.highlightColor = color('rgb(4, 182, 152)')
   
@@ -41,19 +42,17 @@ function Node(entity, pos) {
   
   this.drawRect = function() {
     push();
+    ellipseMode(CENTER)
+    noStroke();
+    if (this.highlighted ) {
+      push();
+      fill(255)
+      ellipse(this.x, this.y, this.r+3, this.r+3)
+      pop();
+    }
     colorMode(RGB);
     fill(this.c)
-    //stroke(this.c)
-    //rectMode(CENTER);
-
-    //rect(this.x, this.y, this.w, this.h);
-    noStroke()
-    ellipseMode(CENTER)
     ellipse(this.x, this.y, this.r, this.r)
-
-    //rect(this.x, this.y,this.w-10, this.h+5);
-    //rect(this.x, this.y, this.w+25, this.h-10);
-    
     pop();
   }
   this.displayText = function() {
@@ -82,18 +81,18 @@ function Node(entity, pos) {
     //print (this.c)
     //this.textColor = color('rgb(182, 197, 201)')
     this.textColor = 255
+    this.highlighted = true
     pop()
   }
   
   this.unhighlight = function() {
     this.c = Node.colorMap[this.type]//this.greyColor
     this.textColor = 255
+    this.highlighted = false
   }
   
   this.containsCursor = function() {
     return sq((mouseX - this.x) / this.r) + sq((mouseY - this.y) / this.r) < 0.25;
-    // return (mouseX > this.x - this.w / 2 && mouseX < this.x + this.w / 2) &&
-    //       (mouseY > this.y - this.h / 2 && mouseY < this.y + this.h / 2);
   }
   
   this.clearSprings = function() {

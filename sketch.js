@@ -91,6 +91,7 @@ function draw() {
   //grid.display();
 }
 
+
 function drawTitle() {
   if (showTitle){
     // draw caps around title square

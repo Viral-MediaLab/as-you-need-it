@@ -84,17 +84,14 @@ function Cluster(n,d,nodes, connectionsMatrix) {
   }
   
   this.run = function() {
-    var hover = false
     for (i=0; i<this.nodes.length; i++){
       this.nodes[i].unhighlight()
     }
     for (i=0; i<this.nodes.length; i++){
-      //this.nodes[i].unhighlight()
-      if (this.shownEntities[i] && this.nodes[i].containsCursor()) {
-        hover = true
+      if ( this.shownEntities[i] && this.nodes[i].containsCursor()) {
         this.nodes[i].highlight()
         for (j = 0; j < this.nodes.length; j++) {
-          if (this.connections[j][i] > 0) {
+          if (this.connections[i][j] > 0) {
               this.nodes[j].highlight()
           }
         }
@@ -185,7 +182,6 @@ function Cluster(n,d,nodes, connectionsMatrix) {
         }
       }
     }
-    
     var foundSelected = false
     for(var i=0; i<this.nodes.length; i++) {
       if (this.nodes[i].containsCursor()) {
@@ -205,7 +201,8 @@ function Cluster(n,d,nodes, connectionsMatrix) {
   
   // Draw all the internal connections
   this.showConnections = function() {
-    stroke(100, 100);
+    push();
+    stroke(255, 100);
     strokeWeight(1);
     for (var i = 0; i < this.nodes.length-1; i++) {
       for (var j = i+1; j < this.nodes.length; j++) {
@@ -215,6 +212,7 @@ function Cluster(n,d,nodes, connectionsMatrix) {
       }
     }
   }
+  pop();
 }
 
 
