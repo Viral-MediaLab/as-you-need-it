@@ -202,11 +202,19 @@ function Cluster(n,d,nodes, connectionsMatrix) {
   // Draw all the internal connections
   this.showConnections = function() {
     push();
-    stroke(255, 100);
-    strokeWeight(1);
+    
+    //strokeWeight(1);
     for (var i = 0; i < this.nodes.length-1; i++) {
       for (var j = i+1; j < this.nodes.length; j++) {
         if (this.connections[i][j]>0 && this.shownEntities[i] && this.shownEntities[j]){
+          if (this.nodes[i].highlighted && this.nodes[j].highlighted) {
+            stroke(255, 255);
+            strokeWeight(3);
+          }
+          else {
+            stroke(255, 160);
+            strokeWeight(1);
+          }
           line(this.nodes[i].x, this.nodes[i].y, this.nodes[j].x, this.nodes[j].y);
         }
       }
