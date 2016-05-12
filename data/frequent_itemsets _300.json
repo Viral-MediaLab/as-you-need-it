@@ -1,0 +1,4571 @@
+{
+  "args": {
+    "limit": 300, 
+    "window": 1
+  }, 
+  "results": {
+    "num_entities": 274, 
+    "run_time": 4352, 
+    "scored_entities": [
+      [
+        "donald trump", 
+        105.628079
+      ], 
+      [
+        "ted cruz", 
+        63.715571999999995
+      ], 
+      [
+        "hillary clinton", 
+        48.131186
+      ], 
+      [
+        "president", 
+        41.843523000000005
+      ], 
+      [
+        "julie grauert", 
+        35.315072
+      ], 
+      [
+        "jay harris", 
+        34.93844
+      ], 
+      [
+        "japan", 
+        32.754564
+      ], 
+      [
+        "bernie sanders", 
+        29.661316
+      ], 
+      [
+        "kevin", 
+        28.711616
+      ], 
+      [
+        "martha maccallum", 
+        27.443597999999998
+      ], 
+      [
+        "betty", 
+        25.643168
+      ], 
+      [
+        "john kasich", 
+        25.573276
+      ], 
+      [
+        "phil", 
+        24.605312
+      ], 
+      [
+        "daniel miller.", 
+        22.065075
+      ], 
+      [
+        "u.s.", 
+        21.272843
+      ], 
+      [
+        "ken mcleod", 
+        16.912506
+      ], 
+      [
+        "government", 
+        16.44071
+      ], 
+      [
+        "china", 
+        13.855266
+      ], 
+      [
+        "cynthia bourgeault", 
+        12.56742
+      ], 
+      [
+        "indiana", 
+        11.965347000000001
+      ], 
+      [
+        "kasich", 
+        11.031833
+      ], 
+      [
+        "trump", 
+        10.9695
+      ], 
+      [
+        "sarina", 
+        10.696829000000001
+      ], 
+      [
+        "new hampshire", 
+        10.33564
+      ], 
+      [
+        "syria", 
+        9.611274
+      ], 
+      [
+        "korea", 
+        9.074592
+      ], 
+      [
+        "barack obama", 
+        9.033574
+      ], 
+      [
+        "guru granth sahib", 
+        8.180871999999999
+      ], 
+      [
+        "senator cruz", 
+        7.987568
+      ], 
+      [
+        "egypt", 
+        7.544208
+      ], 
+      [
+        "prince", 
+        7.438112
+      ], 
+      [
+        "boston", 
+        7.196893
+      ], 
+      [
+        "sportscenter", 
+        7.192625
+      ], 
+      [
+        "austria", 
+        7.011048000000001
+      ], 
+      [
+        "governor kasich", 
+        6.888518
+      ], 
+      [
+        "bloomberg", 
+        6.31898
+      ], 
+      [
+        "liberty mutual", 
+        6.274024
+      ], 
+      [
+        "angeles lakers", 
+        6.196683999999999
+      ], 
+      [
+        "democrats", 
+        6.078335999999999
+      ], 
+      [
+        "warriors", 
+        5.4894240000000005
+      ], 
+      [
+        "london", 
+        5.441986
+      ], 
+      [
+        "toyota", 
+        5.411899999999999
+      ], 
+      [
+        "nba", 
+        5.3915999999999995
+      ], 
+      [
+        "jessica reyes", 
+        5.226876
+      ], 
+      [
+        "frontline plus", 
+        5.030158
+      ], 
+      [
+        "shiri", 
+        4.975216
+      ], 
+      [
+        "john", 
+        4.8846240000000005
+      ], 
+      [
+        "willis barnstone", 
+        4.86249
+      ], 
+      [
+        "new york", 
+        4.834094
+      ], 
+      [
+        "billy paul", 
+        4.82116
+      ], 
+      [
+        "passover", 
+        4.816352
+      ], 
+      [
+        "europe", 
+        4.805192
+      ], 
+      [
+        "johnny manziel", 
+        4.80458
+      ], 
+      [
+        "tokyo", 
+        4.75172
+      ], 
+      [
+        "mr. selfridge", 
+        4.695397
+      ], 
+      [
+        "bernie", 
+        4.5854729999999995
+      ], 
+      [
+        "inder mohan singh", 
+        4.54863
+      ], 
+      [
+        "oil prices", 
+        4.523018
+      ], 
+      [
+        "celtics", 
+        4.492246000000001
+      ], 
+      [
+        "freedom party", 
+        4.433424
+      ], 
+      [
+        "california", 
+        4.391464
+      ], 
+      [
+        "hawks", 
+        4.37214
+      ], 
+      [
+        "saudi arabia", 
+        4.357437
+      ], 
+      [
+        "official", 
+        4.2647960000000005
+      ], 
+      [
+        "steph curry", 
+        4.25784
+      ], 
+      [
+        "school", 
+        4.232902
+      ], 
+      [
+        "officer", 
+        4.21856
+      ], 
+      [
+        "monica lewinsky", 
+        4.06594
+      ], 
+      [
+        "islanders", 
+        4.010832
+      ], 
+      [
+        "mr. obama", 
+        3.94482
+      ], 
+      [
+        "edf", 
+        3.926288
+      ], 
+      [
+        "mario lemieux", 
+        3.818853
+      ], 
+      [
+        "reggie jackson", 
+        3.73518
+      ], 
+      [
+        "ohio", 
+        3.4827030000000003
+      ], 
+      [
+        "spurs", 
+        3.43693
+      ], 
+      [
+        "obama", 
+        3.4080899999999996
+      ], 
+      [
+        "coleman barks", 
+        3.323096
+      ], 
+      [
+        "european union", 
+        3.311208
+      ], 
+      [
+        "nfl", 
+        3.052472
+      ], 
+      [
+        "josh atkins", 
+        3.01836
+      ], 
+      [
+        "u.k.", 
+        3.000832
+      ], 
+      [
+        "philadelphia", 
+        2.943336
+      ], 
+      [
+        "baseball", 
+        2.8942579999999998
+      ], 
+      [
+        "cleveland", 
+        2.894241
+      ], 
+      [
+        "bryce harper", 
+        2.829141
+      ], 
+      [
+        "kitty", 
+        2.82835
+      ], 
+      [
+        "insurance company", 
+        2.720866
+      ], 
+      [
+        "at&t", 
+        2.68752
+      ], 
+      [
+        "plymouth district court", 
+        2.67349
+      ], 
+      [
+        "america", 
+        2.669736
+      ], 
+      [
+        "julie hyman", 
+        2.66098
+      ], 
+      [
+        "analyst", 
+        2.613625
+      ], 
+      [
+        "pyongyang", 
+        2.6017859999999997
+      ], 
+      [
+        "hillary", 
+        2.49712
+      ], 
+      [
+        "liberty mutual insurance.", 
+        2.42112
+      ], 
+      [
+        "dallas", 
+        2.406648
+      ], 
+      [
+        "lucas mcpherson", 
+        2.37134
+      ], 
+      [
+        "iraq", 
+        2.351116
+      ], 
+      [
+        "assault", 
+        2.33259
+      ], 
+      [
+        "oregon", 
+        2.325282
+      ], 
+      [
+        "manchester", 
+        2.30007
+      ], 
+      [
+        "catherine parrotta", 
+        2.272215
+      ], 
+      [
+        "pie chart", 
+        2.255556
+      ], 
+      [
+        "lois", 
+        2.252154
+      ], 
+      [
+        "betty liu", 
+        2.2335599999999998
+      ], 
+      [
+        "nasdaq", 
+        2.224124
+      ], 
+      [
+        "chris", 
+        2.1975000000000002
+      ], 
+      [
+        "byron scott", 
+        2.18851
+      ], 
+      [
+        "mark barton", 
+        2.053445
+      ], 
+      [
+        "japanese government", 
+        2.0499
+      ], 
+      [
+        "pistons", 
+        2.041188
+      ], 
+      [
+        "rosario dawson", 
+        2.0248739999999996
+      ], 
+      [
+        "espn", 
+        2.023122
+      ], 
+      [
+        "cruz", 
+        2.010623
+      ], 
+      [
+        "west", 
+        2.00144
+      ], 
+      [
+        "abigail doolittle", 
+        1.9917449999999999
+      ], 
+      [
+        "tesco", 
+        1.9869299999999999
+      ], 
+      [
+        "ron nehring", 
+        1.97931
+      ], 
+      [
+        "party", 
+        1.9479320000000002
+      ], 
+      [
+        "kathmandu", 
+        1.939768
+      ], 
+      [
+        "kumamoto", 
+        1.927556
+      ], 
+      [
+        "belgium", 
+        1.918464
+      ], 
+      [
+        "attorney", 
+        1.8923960000000002
+      ], 
+      [
+        "kumamoto prefecture", 
+        1.873588
+      ], 
+      [
+        "germany", 
+        1.85949
+      ], 
+      [
+        "carol", 
+        1.8442079999999998
+      ], 
+      [
+        "harry", 
+        1.839656
+      ], 
+      [
+        "nhk", 
+        1.838436
+      ], 
+      [
+        "mexico.", 
+        1.78542
+      ], 
+      [
+        "maryland", 
+        1.768698
+      ], 
+      [
+        "berlin", 
+        1.745316
+      ], 
+      [
+        "chris broussard", 
+        1.7436099999999999
+      ], 
+      [
+        "korea.", 
+        1.736908
+      ], 
+      [
+        "united kingdom", 
+        1.7056019999999998
+      ], 
+      [
+        "sarina morales", 
+        1.704712
+      ], 
+      [
+        "us.", 
+        1.703324
+      ], 
+      [
+        "republican", 
+        1.673924
+      ], 
+      [
+        "windows", 
+        1.60992
+      ], 
+      [
+        "chris heisey", 
+        1.585676
+      ], 
+      [
+        "basketball", 
+        1.583628
+      ], 
+      [
+        "rockets", 
+        1.54426
+      ], 
+      [
+        "shiri spear", 
+        1.517352
+      ], 
+      [
+        "braintree", 
+        1.5029940000000002
+      ], 
+      [
+        "medford", 
+        1.49319
+      ], 
+      [
+        "donald trump.", 
+        1.455784
+      ], 
+      [
+        "greece", 
+        1.448391
+      ], 
+      [
+        "beverly", 
+        1.438191
+      ], 
+      [
+        "john tavares", 
+        1.38476
+      ], 
+      [
+        "jeff teague", 
+        1.375924
+      ], 
+      [
+        "fitchburg", 
+        1.3614330000000001
+      ], 
+      [
+        "josie", 
+        1.349748
+      ], 
+      [
+        "district attorney", 
+        1.341156
+      ], 
+      [
+        "patriots", 
+        1.337103
+      ], 
+      [
+        "arthur", 
+        1.3365
+      ], 
+      [
+        "plymouth", 
+        1.326996
+      ], 
+      [
+        "cruz camp", 
+        1.316672
+      ], 
+      [
+        "insurance premium", 
+        1.304756
+      ], 
+      [
+        "arthritis pain", 
+        1.287508
+      ], 
+      [
+        "michaela", 
+        1.286788
+      ], 
+      [
+        "hillary clinton.", 
+        1.281868
+      ], 
+      [
+        "pennsylvania", 
+        1.2780649999999998
+      ], 
+      [
+        "diane rehm", 
+        1.277532
+      ], 
+      [
+        "marty walsh", 
+        1.267887
+      ], 
+      [
+        "state police", 
+        1.2648510000000002
+      ], 
+      [
+        "apple", 
+        1.259156
+      ], 
+      [
+        "american troops", 
+        1.254244
+      ], 
+      [
+        "republican party", 
+        1.18832
+      ], 
+      [
+        "eurozone", 
+        1.179368
+      ], 
+      [
+        "jays", 
+        1.129812
+      ], 
+      [
+        "philly", 
+        1.116555
+      ], 
+      [
+        "macau", 
+        1.1159059999999998
+      ], 
+      [
+        "klay thompson", 
+        1.10037
+      ], 
+      [
+        "town hall", 
+        1.03816
+      ], 
+      [
+        "kyrie irving", 
+        1.036764
+      ], 
+      [
+        "class a", 
+        1.0313160000000001
+      ], 
+      [
+        "pete weber", 
+        1.018377
+      ], 
+      [
+        "florida", 
+        1.0114800000000002
+      ], 
+      [
+        "kim lawton", 
+        0.991044
+      ], 
+      [
+        "portsmouth", 
+        0.968416
+      ], 
+      [
+        "duxbury", 
+        0.95748
+      ], 
+      [
+        "cancer", 
+        0.94103
+      ], 
+      [
+        "international olympic committee", 
+        0.92022
+      ], 
+      [
+        "north carolina", 
+        0.90894
+      ], 
+      [
+        "congress", 
+        0.905688
+      ], 
+      [
+        "lady mae", 
+        0.897194
+      ], 
+      [
+        "bonnie erbe", 
+        0.895246
+      ], 
+      [
+        "sox", 
+        0.894626
+      ], 
+      [
+        "professor", 
+        0.88321
+      ], 
+      [
+        "rhode", 
+        0.88137
+      ], 
+      [
+        "frankfurt", 
+        0.8746320000000001
+      ], 
+      [
+        "norwood", 
+        0.870564
+      ], 
+      [
+        "attempted murder", 
+        0.868326
+      ], 
+      [
+        "james tengan", 
+        0.864318
+      ], 
+      [
+        "worcester", 
+        0.85224
+      ], 
+      [
+        "japan.", 
+        0.851664
+      ], 
+      [
+        "brighton", 
+        0.850054
+      ], 
+      [
+        "washington", 
+        0.846783
+      ], 
+      [
+        "leverett", 
+        0.845302
+      ], 
+      [
+        "church", 
+        0.844074
+      ], 
+      [
+        "oak foundation", 
+        0.84234
+      ], 
+      [
+        "olivier deby", 
+        0.8421
+      ], 
+      [
+        "olive garden", 
+        0.83558
+      ], 
+      [
+        "softbank", 
+        0.833976
+      ], 
+      [
+        "hong", 
+        0.831666
+      ], 
+      [
+        "senator ted cruz", 
+        0.83017
+      ], 
+      [
+        "indonesia", 
+        0.818572
+      ], 
+      [
+        "wyoming", 
+        0.818534
+      ], 
+      [
+        "u.s. federal reserve", 
+        0.81475
+      ], 
+      [
+        "yuji osawa", 
+        0.814222
+      ], 
+      [
+        "pyramid scheme", 
+        0.799332
+      ], 
+      [
+        "ceo", 
+        0.7903260000000001
+      ], 
+      [
+        "liberty mutual insurance", 
+        0.733635
+      ], 
+      [
+        "cnn", 
+        0.711014
+      ], 
+      [
+        "shae", 
+        0.705032
+      ], 
+      [
+        "chicago", 
+        0.698192
+      ], 
+      [
+        "wisconsin", 
+        0.69204
+      ], 
+      [
+        "panthers", 
+        0.68407
+      ], 
+      [
+        "brad stevens", 
+        0.67939
+      ], 
+      [
+        "stephen a. smith", 
+        0.678076
+      ], 
+      [
+        "jeff van gundy", 
+        0.677416
+      ], 
+      [
+        "d.a.", 
+        0.672994
+      ], 
+      [
+        "goldschmidt", 
+        0.672418
+      ], 
+      [
+        "campaign manager", 
+        0.639158
+      ], 
+      [
+        "phil maddingly", 
+        0.638946
+      ], 
+      [
+        "u.s. secretary of state", 
+        0.627217
+      ], 
+      [
+        "massachusetts institute of technology", 
+        0.624992
+      ], 
+      [
+        "marshall goldsmith", 
+        0.621368
+      ], 
+      [
+        "halliburton", 
+        0.599684
+      ], 
+      [
+        "obama administration", 
+        0.563536
+      ], 
+      [
+        "oil companies", 
+        0.558104
+      ], 
+      [
+        "turkey", 
+        0.553288
+      ], 
+      [
+        "dow", 
+        0.551856
+      ], 
+      [
+        "deutsche bundesbank", 
+        0.54184
+      ], 
+      [
+        "loretta lynch", 
+        0.523868
+      ], 
+      [
+        "steve hayes", 
+        0.474046
+      ], 
+      [
+        "ecuador", 
+        0.466187
+      ], 
+      [
+        "italy", 
+        0.459894
+      ], 
+      [
+        "pew research center", 
+        0.456232
+      ], 
+      [
+        "mississippi", 
+        0.451161
+      ], 
+      [
+        "john kerry", 
+        0.441405
+      ], 
+      [
+        "san francisco", 
+        0.440025
+      ], 
+      [
+        "bob kraft", 
+        0.436973
+      ], 
+      [
+        "phil bryant", 
+        0.435153
+      ], 
+      [
+        "pope francis", 
+        0.43374
+      ], 
+      [
+        "keene", 
+        0.433699
+      ], 
+      [
+        "roman catholic", 
+        0.433244
+      ], 
+      [
+        "ed henry", 
+        0.432674
+      ], 
+      [
+        "american society", 
+        0.431116
+      ], 
+      [
+        "area of low pressure", 
+        0.430626
+      ], 
+      [
+        "nonprofit group", 
+        0.430082
+      ], 
+      [
+        "new york times", 
+        0.429195
+      ], 
+      [
+        "desperation", 
+        0.429011
+      ], 
+      [
+        "bartholomew", 
+        0.426692
+      ], 
+      [
+        "sherry turkle", 
+        0.426392
+      ], 
+      [
+        "south carolina", 
+        0.424543
+      ], 
+      [
+        "charleston", 
+        0.424212
+      ], 
+      [
+        "jerusalem", 
+        0.423895
+      ], 
+      [
+        "jewish sabbath", 
+        0.422424
+      ], 
+      [
+        "brookline", 
+        0.420042
+      ], 
+      [
+        "iphone", 
+        0.419042
+      ], 
+      [
+        "bed.", 
+        0.418071
+      ], 
+      [
+        "nashua", 
+        0.416451
+      ], 
+      [
+        "npr", 
+        0.415468
+      ], 
+      [
+        "steve kerr", 
+        0.340555
+      ], 
+      [
+        "cleveland browns", 
+        0.271594
+      ], 
+      [
+        "dubai", 
+        0.271129
+      ], 
+      [
+        "crown prince", 
+        0.267627
+      ], 
+      [
+        "exxon", 
+        0.260611
+      ], 
+      [
+        "online editor of", 
+        0.237307
+      ], 
+      [
+        "secretary of state", 
+        0.226976
+      ], 
+      [
+        "virginia", 
+        0.222823
+      ], 
+      [
+        "kevin corke", 
+        0.221955
+      ], 
+      [
+        "byron york", 
+        0.215376
+      ]
+    ], 
+    "sets": {
+      "angeles lakers,angeles lakers": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "the los angeles lakers.\nhis son is an assistant.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=341", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "the los angeles lakers  his son is an assistant "
+          }
+        ]
+      }, 
+      "assault,assault": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "it as class a misdemeanor\ndomestic assault case.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=98", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "it as class a misdemeanor domestic assault case "
+          }, 
+          {
+            "cap": "video at the hotel where part\nthis of alleged assault is said", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=182", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "video at the hotel where part this of alleged assault is said"
+          }, 
+          {
+            "cap": "assaultive behavior going on\njohnny manziel was the victim", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=194", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "assaultive behavior going on johnny manziel was the victim"
+          }, 
+          {
+            "cap": "his former girlfriend alleged\nmanziel assaulted her in her car", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=205", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "his former girlfriend alleged manziel assaulted her in her car"
+          }
+        ]
+      }, 
+      "assault,class a": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "it as class a misdemeanor\ndomestic assault case.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=98", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "it as class a misdemeanor domestic assault case "
+          }
+        ]
+      }, 
+      "assault,john": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "assaultive behavior going on\njohnny manziel was the victim", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=194", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "assaultive behavior going on johnny manziel was the victim"
+          }
+        ]
+      }, 
+      "assault,johnny manziel": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "assaultive behavior going on\njohnny manziel was the victim", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=194", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "assaultive behavior going on johnny manziel was the victim"
+          }
+        ]
+      }, 
+      "attorney,attorney": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "attorney's of if islander will\nannounce that manziel has been", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=86", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "attorney s of if islander will announce that manziel has been"
+          }, 
+          {
+            "cap": "attorney's office.\ni can tell you that his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=171", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "attorney s office  i can tell you that his"
+          }, 
+          {
+            "cap": "attorney, bob hinton, his local\nattorney in dallas is offering a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=173", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "attorney  bob hinton  his local attorney in dallas is offering a"
+          }, 
+          {
+            "cap": "in the next hour when the office\nof the district attorney is set", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=224", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "in the next hour when the office of the district attorney is set"
+          }
+        ]
+      }, 
+      "attorney,dallas": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "attorney, bob hinton, his local\nattorney in dallas is offering a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=173", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "attorney  bob hinton  his local attorney in dallas is offering a"
+          }
+        ]
+      }, 
+      "attorney,district attorney": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "in the next hour when the office\nof the district attorney is set", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=224", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "in the next hour when the office of the district attorney is set"
+          }
+        ]
+      }, 
+      "baseball,baseball": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "ball at a baseball game?\nit is rare.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=55", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "ball at a baseball game  it is rare "
+          }
+        ]
+      }, 
+      "basketball,basketball": {
+        "count": 3, 
+        "matching_caps": [
+          {
+            "cap": "that knows basketball and cares\nabout the product instead of his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=365", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "that knows basketball and cares about the product instead of his"
+          }, 
+          {
+            "cap": ">> no, i don't think so.\ni'm a basketball fan and this is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=240", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   no  i don t think so  i m a basketball fan and this is"
+          }, 
+          {
+            "cap": ">> no, i don't think so.\ni'm a basketball fan and this is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=240", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   no  i don t think so  i m a basketball fan and this is"
+          }
+        ]
+      }, 
+      "belgium,belgium": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "theater in belgium.\nthe accusation was denied but", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=342", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "theater in belgium  the accusation was denied but"
+          }, 
+          {
+            "cap": "theater in belgium.\nthe accusation was denied but", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=342", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "theater in belgium  the accusation was denied but"
+          }
+        ]
+      }, 
+      "bernie sanders,bernie sanders": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "we see bernie sanders is doing\nextremely well and at least is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=341", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "we see bernie sanders is doing extremely well and at least is"
+          }, 
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "we see bernie sanders is doing\nextremely well and at least is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=341", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "we see bernie sanders is doing extremely well and at least is"
+          }
+        ]
+      }, 
+      "bernie sanders,hillary": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }
+        ]
+      }, 
+      "bernie,bernie": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "we see bernie sanders is doing\nextremely well and at least is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=341", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "we see bernie sanders is doing extremely well and at least is"
+          }, 
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "we see bernie sanders is doing\nextremely well and at least is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=341", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "we see bernie sanders is doing extremely well and at least is"
+          }
+        ]
+      }, 
+      "bernie,bernie sanders": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "we see bernie sanders is doing\nextremely well and at least is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=341", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "we see bernie sanders is doing extremely well and at least is"
+          }, 
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "we see bernie sanders is doing\nextremely well and at least is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=341", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "we see bernie sanders is doing extremely well and at least is"
+          }
+        ]
+      }, 
+      "bernie,hillary": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }
+        ]
+      }, 
+      "brighton,brighton": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "a little bit of slowing right\nnow on the pike eastbound as you\napproach the allston-brighton", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090464.cbe3948b-a4cc-410e-b546-981b7ca829a6.mp4#t=14", 
+            "media_id": "571e3f7042325b00054b323c", 
+            "text": "a little bit of slowing right now on the pike eastbound as you approach the allston brighton"
+          }
+        ]
+      }, 
+      "byron scott,byron scott": {
+        "count": 3, 
+        "matching_caps": [
+          {
+            "cap": "the team elected not to pick up\nwhat byron scott's contract.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=264", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "the team elected not to pick up what byron scott s contract "
+          }, 
+          {
+            "cap": "if she is not willing to do so,\nbyron scott is nothing more on a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=320", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "if she is not willing to do so  byron scott is nothing more on a"
+          }, 
+          {
+            "cap": "this year.\njaymee: byron scott has the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=377", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "this year  jaymee  byron scott has the"
+          }
+        ]
+      }, 
+      "byron york,byron york": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "washington examiner byron york,\ngood morning to you.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090354.223108e6-fae2-4c8b-9da1-2e650adbae7d.mp4#t=11", 
+            "media_id": "571e3f7242325b00054b323d", 
+            "text": "washington examiner byron york  good morning to you "
+          }
+        ]
+      }, 
+      "byron york,washington": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "washington examiner byron york,\ngood morning to you.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090354.223108e6-fae2-4c8b-9da1-2e650adbae7d.mp4#t=11", 
+            "media_id": "571e3f7242325b00054b323d", 
+            "text": "washington examiner byron york  good morning to you "
+          }
+        ]
+      }, 
+      "california,california": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "california.\nev whe this is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=453", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "california  ev whe this is"
+          }, 
+          {
+            "cap": "california.\nev whe this is", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=453", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "california  ev whe this is"
+          }
+        ]
+      }, 
+      "campaign manager,campaign manager": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "between the campaign manager of\none and chief strategist of", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=70", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "between the campaign manager of one and chief strategist of"
+          }, 
+          {
+            "cap": "between the campaign manager of\none and chief strategist of", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=70", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "between the campaign manager of one and chief strategist of"
+          }
+        ]
+      }, 
+      "chris,chris": {
+        "count": 6, 
+        "matching_caps": [
+          {
+            "cap": "chris, it's all about that\ncontested convention in july.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=219", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "chris  it s all about that contested convention in july "
+          }, 
+          {
+            "cap": "know, chris, you've been in this\ngame a long time.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=326", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "know  chris  you ve been in this game a long time "
+          }, 
+          {
+            "cap": "we got that number, chris.\nbut i also think that there are", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=500", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "we got that number  chris  but i also think that there are"
+          }, 
+          {
+            "cap": "chris, it's all about that\ncontested convention in july.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=219", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "chris  it s all about that contested convention in july "
+          }, 
+          {
+            "cap": "know, chris, you've been in this\ngame a long time.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=326", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "know  chris  you ve been in this game a long time "
+          }, 
+          {
+            "cap": "we got that number, chris.\nbut i also think that there are", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=500", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "we got that number  chris  but i also think that there are"
+          }
+        ]
+      }, 
+      "class a,class a": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "it as class a misdemeanor\ndomestic assault case.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=98", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "it as class a misdemeanor domestic assault case "
+          }, 
+          {
+            "cap": "a class a misdemeanor carries a\none year maximum jail sentence", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=142", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "a class a misdemeanor carries a one year maximum jail sentence"
+          }
+        ]
+      }, 
+      "cleveland,cleveland": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "three words that matter.\nget to cleveland.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=217", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "three words that matter  get to cleveland "
+          }, 
+          {
+            "cap": ">> to cleveland.\nsome of the only math in this", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=223", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   to cleveland  some of the only math in this"
+          }, 
+          {
+            "cap": "three words that matter.\nget to cleveland.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=217", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "three words that matter  get to cleveland "
+          }, 
+          {
+            "cap": ">> to cleveland.\nsome of the only math in this", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=223", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   to cleveland  some of the only math in this"
+          }
+        ]
+      }, 
+      "cnn,cnn": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "the polls tomorrow.\n2016 covered the way only cnn", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=46", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "the polls tomorrow  2016 covered the way only cnn"
+          }, 
+          {
+            "cap": "the polls tomorrow.\n2016 covered the way only cnn", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=46", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "the polls tomorrow  2016 covered the way only cnn"
+          }
+        ]
+      }, 
+      "cruz,cruz": {
+        "count": 16, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "cruz's campaign will focus its\ntime and resources in indiana.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=100", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz s campaign will focus its time and resources in indiana "
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": "weekend.\n>> cruz is working really hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=175", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "weekend     cruz is working really hard"
+          }, 
+          {
+            "cap": "delegates.\n>> accusing cruz of acting more", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=189", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "delegates     accusing cruz of acting more"
+          }, 
+          {
+            "cap": "is this combination of kasich\nand cruz that you're going to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=395", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "is this combination of kasich and cruz that you re going to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "of inevitability and kasich and\ncruz, every day, have a hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=462", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "of inevitability and kasich and cruz  every day  have a hard"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "cruz's campaign will focus its\ntime and resources in indiana.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=100", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz s campaign will focus its time and resources in indiana "
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": "weekend.\n>> cruz is working really hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=175", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "weekend     cruz is working really hard"
+          }, 
+          {
+            "cap": "delegates.\n>> accusing cruz of acting more", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=189", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "delegates     accusing cruz of acting more"
+          }, 
+          {
+            "cap": "is this combination of kasich\nand cruz that you're going to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=395", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "is this combination of kasich and cruz that you re going to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "of inevitability and kasich and\ncruz, every day, have a hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=462", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "of inevitability and kasich and cruz  every day  have a hard"
+          }
+        ]
+      }, 
+      "cruz,hillary": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }
+        ]
+      }, 
+      "cruz,indiana": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "cruz's campaign will focus its\ntime and resources in indiana.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=100", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz s campaign will focus its time and resources in indiana "
+          }, 
+          {
+            "cap": "cruz's campaign will focus its\ntime and resources in indiana.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=100", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz s campaign will focus its time and resources in indiana "
+          }
+        ]
+      }, 
+      "cruz,john": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }
+        ]
+      }, 
+      "cruz,john kasich": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }
+        ]
+      }, 
+      "cruz,kasich": {
+        "count": 8, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "is this combination of kasich\nand cruz that you're going to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=395", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "is this combination of kasich and cruz that you re going to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "of inevitability and kasich and\ncruz, every day, have a hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=462", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "of inevitability and kasich and cruz  every day  have a hard"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "is this combination of kasich\nand cruz that you're going to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=395", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "is this combination of kasich and cruz that you re going to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "of inevitability and kasich and\ncruz, every day, have a hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=462", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "of inevitability and kasich and cruz  every day  have a hard"
+          }
+        ]
+      }, 
+      "cruz,ted cruz": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }
+        ]
+      }, 
+      "cruz,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }
+        ]
+      }, 
+      "d.a.,d.a.": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "and a $4,000 fine.\nwaiting word from the d.a.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=147", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "and a  4 000 fine  waiting word from the d a "
+          }
+        ]
+      }, 
+      "dallas,dallas": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "building in dallas.\nwhat can you tell us about the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=78", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "building in dallas  what can you tell us about the"
+          }, 
+          {
+            "cap": "john: well, jay, we expect that\nthe dallas county district", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=83", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "john  well  jay  we expect that the dallas county district"
+          }, 
+          {
+            "cap": "dallas.\non thursday of last week, a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=93", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "dallas  on thursday of last week  a"
+          }, 
+          {
+            "cap": "attorney, bob hinton, his local\nattorney in dallas is offering a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=173", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "attorney  bob hinton  his local attorney in dallas is offering a"
+          }
+        ]
+      }, 
+      "dallas,john": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "john: well, jay, we expect that\nthe dallas county district", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=83", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "john  well  jay  we expect that the dallas county district"
+          }
+        ]
+      }, 
+      "desperation,desperation": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "a horrible act of desperation is\none of the nicer quotes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=32", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "a horrible act of desperation is one of the nicer quotes "
+          }, 
+          {
+            "cap": "a horrible act of desperation is\none of the nicer quotes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=32", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "a horrible act of desperation is one of the nicer quotes "
+          }
+        ]
+      }, 
+      "district attorney,district attorney": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "in the next hour when the office\nof the district attorney is set", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=224", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "in the next hour when the office of the district attorney is set"
+          }
+        ]
+      }, 
+      "donald trump,donald trump": {
+        "count": 10, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": "do you think they're going to\nstop donald trump?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=238", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "do you think they re going to stop donald trump "
+          }, 
+          {
+            "cap": ">> this type of move that's\ngoing on, donald trump calls it", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=301", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   this type of move that s going on  donald trump calls it"
+          }, 
+          {
+            "cap": "do you think donald trump can\nmake it out of a convention?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=495", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "do you think donald trump can make it out of a convention "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": "do you think they're going to\nstop donald trump?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=238", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "do you think they re going to stop donald trump "
+          }, 
+          {
+            "cap": ">> this type of move that's\ngoing on, donald trump calls it", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=301", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   this type of move that s going on  donald trump calls it"
+          }, 
+          {
+            "cap": "do you think donald trump can\nmake it out of a convention?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=495", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "do you think donald trump can make it out of a convention "
+          }
+        ]
+      }, 
+      "donald trump,donald trump.": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "donald trump     i want to the ask each and"
+          }
+        ]
+      }, 
+      "donald trump,hillary": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }
+        ]
+      }, 
+      "donald trump,hillary clinton": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }
+        ]
+      }, 
+      "donald trump,trump": {
+        "count": 10, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": "do you think they're going to\nstop donald trump?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=238", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "do you think they re going to stop donald trump "
+          }, 
+          {
+            "cap": ">> this type of move that's\ngoing on, donald trump calls it", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=301", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   this type of move that s going on  donald trump calls it"
+          }, 
+          {
+            "cap": "do you think donald trump can\nmake it out of a convention?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=495", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "do you think donald trump can make it out of a convention "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": "do you think they're going to\nstop donald trump?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=238", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "do you think they re going to stop donald trump "
+          }, 
+          {
+            "cap": ">> this type of move that's\ngoing on, donald trump calls it", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=301", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   this type of move that s going on  donald trump calls it"
+          }, 
+          {
+            "cap": "do you think donald trump can\nmake it out of a convention?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=495", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "do you think donald trump can make it out of a convention "
+          }
+        ]
+      }, 
+      "donald trump.,donald trump.": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "donald trump     i want to the ask each and"
+          }
+        ]
+      }, 
+      "donald trump.,hillary": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }
+        ]
+      }, 
+      "donald trump.,hillary clinton": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }
+        ]
+      }, 
+      "donald trump.,trump": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "donald trump     i want to the ask each and"
+          }
+        ]
+      }, 
+      "dow,dow": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "through the turn style.\nnow it still comes down to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=312", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "through the turn style  now it still comes down to"
+          }
+        ]
+      }, 
+      "edf,edf": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "slow spots on 93 south as you\nhead through medford and into\nsomerville.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090464.cbe3948b-a4cc-410e-b546-981b7ca829a6.mp4#t=10", 
+            "media_id": "571e3f7042325b00054b323c", 
+            "text": "slow spots on 93 south as you head through medford and into somerville "
+          }
+        ]
+      }, 
+      "edf,medford": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "slow spots on 93 south as you\nhead through medford and into\nsomerville.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090464.cbe3948b-a4cc-410e-b546-981b7ca829a6.mp4#t=10", 
+            "media_id": "571e3f7042325b00054b323c", 
+            "text": "slow spots on 93 south as you head through medford and into somerville "
+          }
+        ]
+      }, 
+      "government,government": {
+        "count": 10, 
+        "matching_caps": [
+          {
+            "cap": "recovery work is ongoing and on\nmonday the central government", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=99", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "recovery work is ongoing and on monday the central government"
+          }, 
+          {
+            "cap": "government.\nthey're claiming damages for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=426", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "government  they re claiming damages for"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "they say the japanese government failed to meet the"
+          }, 
+          {
+            "cap": "they're claiming negligence\ngiven the government's knowledge", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=460", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "they re claiming negligence given the government s knowledge"
+          }, 
+          {
+            "cap": "of radiation exposure.\n>> translator: the government", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=462", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "of radiation exposure     translator  the government"
+          }, 
+          {
+            "cap": "recovery work is ongoing and on\nmonday the central government", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=99", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "recovery work is ongoing and on monday the central government"
+          }, 
+          {
+            "cap": "government.\nthey're claiming damages for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=426", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "government  they re claiming damages for"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "they say the japanese government failed to meet the"
+          }, 
+          {
+            "cap": "they're claiming negligence\ngiven the government's knowledge", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=460", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "they re claiming negligence given the government s knowledge"
+          }, 
+          {
+            "cap": "of radiation exposure.\n>> translator: the government", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=462", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "of radiation exposure     translator  the government"
+          }
+        ]
+      }, 
+      "government,japan": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "they say the japanese government failed to meet the"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "they say the japanese government failed to meet the"
+          }
+        ]
+      }, 
+      "government,japanese government": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "they say the japanese government failed to meet the"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "they say the japanese government failed to meet the"
+          }
+        ]
+      }, 
+      "hillary clinton,hillary clinton": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }
+        ]
+      }, 
+      "hillary clinton,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }
+        ]
+      }, 
+      "hillary,hillary": {
+        "count": 6, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": "start going after hillary\nclinton or bernie sanders and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=293", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "start going after hillary clinton or bernie sanders and"
+          }
+        ]
+      }, 
+      "hillary,hillary clinton": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }
+        ]
+      }, 
+      "hillary,trump": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }
+        ]
+      }, 
+      "indiana,indiana": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "cruz's campaign will focus its\ntime and resources in indiana.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=100", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz s campaign will focus its time and resources in indiana "
+          }, 
+          {
+            "cap": "plurality in indiana is critical\nto keeping him under 1237.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=119", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "plurality in indiana is critical to keeping him under 1237 "
+          }, 
+          {
+            "cap": "cruz's campaign will focus its\ntime and resources in indiana.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=100", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz s campaign will focus its time and resources in indiana "
+          }, 
+          {
+            "cap": "plurality in indiana is critical\nto keeping him under 1237.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=119", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "plurality in indiana is critical to keeping him under 1237 "
+          }
+        ]
+      }, 
+      "james tengan,james tengan": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "i'm james tengan.\nhere are some of the stories", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=16", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "i m james tengan  here are some of the stories"
+          }, 
+          {
+            "cap": "i'm james tengan.\nhere are some of the stories", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=16", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "i m james tengan  here are some of the stories"
+          }
+        ]
+      }, 
+      "japan,japan": {
+        "count": 16, 
+        "matching_caps": [
+          {
+            "cap": ">>> here in japan it's 6:00 p.m.\non a monday.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=12", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "    here in japan it s 6 00 p m  on a monday "
+          }, 
+          {
+            "cap": "japan have discovered another\nvictim of the series of", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=57", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "japan have discovered another victim of the series of"
+          }, 
+          {
+            "cap": "traditional japanese potter.\nin size they represent different", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=296", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "traditional japanese potter  in size they represent different"
+          }, 
+          {
+            "cap": "it has a sense of japan.\n>> translator: i think it's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=318", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "it has a sense of japan     translator  i think it s"
+          }, 
+          {
+            "cap": ">>> a group of japanese on\nfishing vessels on the site near", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=417", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "    a group of japanese on fishing vessels on the site near"
+          }, 
+          {
+            "cap": "a u.s. hydrogen bomb site is to\nfile a suit against the japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=422", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "a u s  hydrogen bomb site is to file a suit against the japanese"
+          }, 
+          {
+            "cap": "hydrogen bomb in 1954.\nabout a thousand japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=435", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "hydrogen bomb in 1954  about a thousand japanese"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "they say the japanese government failed to meet the"
+          }, 
+          {
+            "cap": ">>> here in japan it's 6:00 p.m.\non a monday.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=12", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "    here in japan it s 6 00 p m  on a monday "
+          }, 
+          {
+            "cap": "japan have discovered another\nvictim of the series of", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=57", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "japan have discovered another victim of the series of"
+          }, 
+          {
+            "cap": "traditional japanese potter.\nin size they represent different", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=296", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "traditional japanese potter  in size they represent different"
+          }, 
+          {
+            "cap": "it has a sense of japan.\n>> translator: i think it's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=318", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "it has a sense of japan     translator  i think it s"
+          }, 
+          {
+            "cap": ">>> a group of japanese on\nfishing vessels on the site near", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=417", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "    a group of japanese on fishing vessels on the site near"
+          }, 
+          {
+            "cap": "a u.s. hydrogen bomb site is to\nfile a suit against the japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=422", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "a u s  hydrogen bomb site is to file a suit against the japanese"
+          }, 
+          {
+            "cap": "hydrogen bomb in 1954.\nabout a thousand japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=435", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "hydrogen bomb in 1954  about a thousand japanese"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "they say the japanese government failed to meet the"
+          }
+        ]
+      }, 
+      "japan,japan.": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "it has a sense of japan.\n>> translator: i think it's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=318", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "it has a sense of japan     translator  i think it s"
+          }, 
+          {
+            "cap": "it has a sense of japan.\n>> translator: i think it's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=318", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "it has a sense of japan     translator  i think it s"
+          }
+        ]
+      }, 
+      "japan,japanese government": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "they say the japanese government failed to meet the"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "they say the japanese government failed to meet the"
+          }
+        ]
+      }, 
+      "japan,u.s.": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "a u.s. hydrogen bomb site is to\nfile a suit against the japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=422", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "a u s  hydrogen bomb site is to file a suit against the japanese"
+          }, 
+          {
+            "cap": "a u.s. hydrogen bomb site is to\nfile a suit against the japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=422", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "a u s  hydrogen bomb site is to file a suit against the japanese"
+          }
+        ]
+      }, 
+      "japan.,japan.": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "it has a sense of japan.\n>> translator: i think it's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=318", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "it has a sense of japan     translator  i think it s"
+          }, 
+          {
+            "cap": "it has a sense of japan.\n>> translator: i think it's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=318", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "it has a sense of japan     translator  i think it s"
+          }
+        ]
+      }, 
+      "japanese government,japanese government": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "they say the japanese government failed to meet the"
+          }, 
+          {
+            "cap": "they say the japanese government\nfailed to meet the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=454", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "they say the japanese government failed to meet the"
+          }
+        ]
+      }, 
+      "john kasich,john kasich": {
+        "count": 8, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }
+        ]
+      }, 
+      "john kasich,kasich": {
+        "count": 8, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }
+        ]
+      }, 
+      "john kasich,ted cruz": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }
+        ]
+      }, 
+      "john,john": {
+        "count": 16, 
+        "matching_caps": [
+          {
+            "cap": "stories and more trouble for\njohnny manziel.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=70", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "stories and more trouble for johnny manziel "
+          }, 
+          {
+            "cap": "multiple media reports, john\nbarre live outside the courts", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=74", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "multiple media reports  john barre live outside the courts"
+          }, 
+          {
+            "cap": "developing situation surrounding\njohnny manziel?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=81", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "developing situation surrounding johnny manziel "
+          }, 
+          {
+            "cap": "john: well, jay, we expect that\nthe dallas county district", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=83", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "john  well  jay  we expect that the dallas county district"
+          }, 
+          {
+            "cap": "john: he will have an\nopportunity to enter a plea in", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=160", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "john  he will have an opportunity to enter a plea in"
+          }, 
+          {
+            "cap": "assaultive behavior going on\njohnny manziel was the victim", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=194", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "assaultive behavior going on johnny manziel was the victim"
+          }, 
+          {
+            "cap": "to open at 8:00 a.m. local time.\njohn barr, thank you very much.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=228", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "to open at 8 00 a m  local time  john barr  thank you very much "
+          }, 
+          {
+            "cap": "2016 a rough year for johnny\nmanziel.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=235", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "2016 a rough year for johnny manziel "
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }
+        ]
+      }, 
+      "john,john kasich": {
+        "count": 8, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }
+        ]
+      }, 
+      "john,johnny manziel": {
+        "count": 3, 
+        "matching_caps": [
+          {
+            "cap": "stories and more trouble for\njohnny manziel.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=70", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "stories and more trouble for johnny manziel "
+          }, 
+          {
+            "cap": "developing situation surrounding\njohnny manziel?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=81", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "developing situation surrounding johnny manziel "
+          }, 
+          {
+            "cap": "assaultive behavior going on\njohnny manziel was the victim", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=194", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "assaultive behavior going on johnny manziel was the victim"
+          }
+        ]
+      }, 
+      "john,kasich": {
+        "count": 8, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }
+        ]
+      }, 
+      "john,ted cruz": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }
+        ]
+      }, 
+      "johnny manziel,johnny manziel": {
+        "count": 3, 
+        "matching_caps": [
+          {
+            "cap": "stories and more trouble for\njohnny manziel.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=70", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "stories and more trouble for johnny manziel "
+          }, 
+          {
+            "cap": "developing situation surrounding\njohnny manziel?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=81", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "developing situation surrounding johnny manziel "
+          }, 
+          {
+            "cap": "assaultive behavior going on\njohnny manziel was the victim", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=194", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "assaultive behavior going on johnny manziel was the victim"
+          }
+        ]
+      }, 
+      "kasich,kasich": {
+        "count": 14, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "kasich, confirming the campaign\ncollusion in a statement, quote,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=107", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "kasich  confirming the campaign collusion in a statement  quote "
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "is this combination of kasich\nand cruz that you're going to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=395", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "is this combination of kasich and cruz that you re going to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "of inevitability and kasich and\ncruz, every day, have a hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=462", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "of inevitability and kasich and cruz  every day  have a hard"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": ">> announcing he's joining\nforces with john kasich in a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=89", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   announcing he s joining forces with john kasich in a"
+          }, 
+          {
+            "cap": "kasich, confirming the campaign\ncollusion in a statement, quote,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=107", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "kasich  confirming the campaign collusion in a statement  quote "
+          }, 
+          {
+            "cap": "clinton.\n>> john kasich has no path to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=132", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "clinton     john kasich has no path to"
+          }, 
+          {
+            "cap": "is this combination of kasich\nand cruz that you're going to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=395", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "is this combination of kasich and cruz that you re going to"
+          }, 
+          {
+            "cap": "cruz or john kasich, either one,\nto make the case that they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=439", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "cruz or john kasich  either one  to make the case that they"
+          }, 
+          {
+            "cap": "of inevitability and kasich and\ncruz, every day, have a hard", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=462", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "of inevitability and kasich and cruz  every day  have a hard"
+          }
+        ]
+      }, 
+      "kasich,ted cruz": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }
+        ]
+      }, 
+      "kevin,kevin": {
+        "count": 5, 
+        "matching_caps": [
+          {
+            "cap": "jay: i kind of hope it is laugh.\nkevin: that is cold.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=13", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "jay  i kind of hope it is laugh  kevin  that is cold "
+          }, 
+          {
+            "cap": "jaymee: they can hear you.\nkevin: knows we are out at 10:0.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=17", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "jaymee  they can hear you  kevin  knows we are out at 10 0 "
+          }, 
+          {
+            "cap": "jay: i know, right.\nkevin: \"sportscenter:am\"", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=36", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "jay  i know  right  kevin   sportscenter am "
+          }, 
+          {
+            "cap": "kevin: go to vegas.\njay: the top hour with the top", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=67", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "kevin  go to vegas  jay  the top hour with the top"
+          }, 
+          {
+            "cap": "kevin: continues top stories\nhere.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=390", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "kevin  continues top stories here "
+          }
+        ]
+      }, 
+      "kevin,sportscenter": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "jay: i know, right.\nkevin: \"sportscenter:am\"", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=36", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "jay  i know  right  kevin   sportscenter am "
+          }
+        ]
+      }, 
+      "kumamoto prefecture,kumamoto prefecture": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "kumamoto prefecture.\nhundreds of rescue workers have", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=63", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "kumamoto prefecture  hundreds of rescue workers have"
+          }, 
+          {
+            "cap": "in kumamoto prefecture in the\nquakes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=69", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "in kumamoto prefecture in the quakes "
+          }, 
+          {
+            "cap": "kumamoto prefecture.\nhundreds of rescue workers have", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=63", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "kumamoto prefecture  hundreds of rescue workers have"
+          }, 
+          {
+            "cap": "in kumamoto prefecture in the\nquakes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=69", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "in kumamoto prefecture in the quakes "
+          }
+        ]
+      }, 
+      "kumamoto,kumamoto": {
+        "count": 8, 
+        "matching_caps": [
+          {
+            "cap": "kumamoto prefecture.\nhundreds of rescue workers have", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=63", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "kumamoto prefecture  hundreds of rescue workers have"
+          }, 
+          {
+            "cap": "in kumamoto prefecture in the\nquakes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=69", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "in kumamoto prefecture in the quakes "
+          }, 
+          {
+            "cap": "the earthquakes in kumamoto as\nan extremely severe disaster.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=110", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "the earthquakes in kumamoto as an extremely severe disaster "
+          }, 
+          {
+            "cap": "school gym in kumamoto city, but\nwhen the second stronger quake", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=209", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "school gym in kumamoto city  but when the second stronger quake"
+          }, 
+          {
+            "cap": "kumamoto prefecture.\nhundreds of rescue workers have", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=63", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "kumamoto prefecture  hundreds of rescue workers have"
+          }, 
+          {
+            "cap": "in kumamoto prefecture in the\nquakes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=69", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "in kumamoto prefecture in the quakes "
+          }, 
+          {
+            "cap": "the earthquakes in kumamoto as\nan extremely severe disaster.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=110", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "the earthquakes in kumamoto as an extremely severe disaster "
+          }, 
+          {
+            "cap": "school gym in kumamoto city, but\nwhen the second stronger quake", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=209", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "school gym in kumamoto city  but when the second stronger quake"
+          }
+        ]
+      }, 
+      "kumamoto,kumamoto prefecture": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "kumamoto prefecture.\nhundreds of rescue workers have", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=63", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "kumamoto prefecture  hundreds of rescue workers have"
+          }, 
+          {
+            "cap": "in kumamoto prefecture in the\nquakes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=69", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "in kumamoto prefecture in the quakes "
+          }, 
+          {
+            "cap": "kumamoto prefecture.\nhundreds of rescue workers have", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=63", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "kumamoto prefecture  hundreds of rescue workers have"
+          }, 
+          {
+            "cap": "in kumamoto prefecture in the\nquakes.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=69", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "in kumamoto prefecture in the quakes "
+          }
+        ]
+      }, 
+      "kumamoto,school": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "school gym in kumamoto city, but\nwhen the second stronger quake", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=209", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "school gym in kumamoto city  but when the second stronger quake"
+          }, 
+          {
+            "cap": "school gym in kumamoto city, but\nwhen the second stronger quake", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=209", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "school gym in kumamoto city  but when the second stronger quake"
+          }
+        ]
+      }, 
+      "maryland,maryland": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "ahead of tuesday's primaries in\nconnecticut, delaware, maryland,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=161", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "ahead of tuesday s primaries in connecticut  delaware  maryland "
+          }, 
+          {
+            "cap": "ahead of tuesday's primaries in\nconnecticut, delaware, maryland,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=161", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "ahead of tuesday s primaries in connecticut  delaware  maryland "
+          }
+        ]
+      }, 
+      "medford,medford": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "slow spots on 93 south as you\nhead through medford and into\nsomerville.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090464.cbe3948b-a4cc-410e-b546-981b7ca829a6.mp4#t=10", 
+            "media_id": "571e3f7042325b00054b323c", 
+            "text": "slow spots on 93 south as you head through medford and into somerville "
+          }
+        ]
+      }, 
+      "nfl,nfl": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "our nfl nation mock draft and\nthen the best of quarterback", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=23", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "our nfl nation mock draft and then the best of quarterback"
+          }, 
+          {
+            "cap": "nfl.\"\ndon't jinx us, jay.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=35", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "nfl   don t jinx us  jay "
+          }
+        ]
+      }, 
+      "nhk,nhk": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "and it's hoped they will be\nyuji osawa, nhk world.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=413", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "and it s hoped they will be yuji osawa  nhk world "
+          }, 
+          {
+            "cap": "and it's hoped they will be\nyuji osawa, nhk world.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=413", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "and it s hoped they will be yuji osawa  nhk world "
+          }
+        ]
+      }, 
+      "nhk,yuji osawa": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "and it's hoped they will be\nyuji osawa, nhk world.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=413", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "and it s hoped they will be yuji osawa  nhk world "
+          }, 
+          {
+            "cap": "and it's hoped they will be\nyuji osawa, nhk world.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=413", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "and it s hoped they will be yuji osawa  nhk world "
+          }
+        ]
+      }, 
+      "official,official": {
+        "count": 9, 
+        "matching_caps": [
+          {
+            "cap": "officials say 35 people have\nbeen diagnosed with so-called", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=85", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "officials say 35 people have been diagnosed with so called"
+          }, 
+          {
+            "cap": "with me friends.\n>> school officials say they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=148", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "with me friends     school officials say they"
+          }, 
+          {
+            "cap": "is an official evacuation\nfacility, but despite being", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=175", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "is an official evacuation facility  but despite being"
+          }, 
+          {
+            "cap": ">> reporter: officials say\nchildren might have to study in", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=254", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "   reporter  officials say children might have to study in"
+          }, 
+          {
+            "cap": "officials say 35 people have\nbeen diagnosed with so-called", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=85", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "officials say 35 people have been diagnosed with so called"
+          }, 
+          {
+            "cap": "with me friends.\n>> school officials say they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=148", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "with me friends     school officials say they"
+          }, 
+          {
+            "cap": "is an official evacuation\nfacility, but despite being", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=175", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "is an official evacuation facility  but despite being"
+          }, 
+          {
+            "cap": ">> reporter: officials say\nchildren might have to study in", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=254", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "   reporter  officials say children might have to study in"
+          }, 
+          {
+            "cap": "is the official announcement.\nthis is about a case that dates", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=121", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "is the official announcement  this is about a case that dates"
+          }
+        ]
+      }, 
+      "official,school": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "with me friends.\n>> school officials say they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=148", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "with me friends     school officials say they"
+          }, 
+          {
+            "cap": "with me friends.\n>> school officials say they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=148", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "with me friends     school officials say they"
+          }
+        ]
+      }, 
+      "olivier deby,olivier deby": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "olivier deby said it closely\nresembled one he created for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=337", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "olivier deby said it closely resembled one he created for"
+          }, 
+          {
+            "cap": "olivier deby said it closely\nresembled one he created for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=337", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "olivier deby said it closely resembled one he created for"
+          }
+        ]
+      }, 
+      "party,party": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "love their rules.\nevery party organization does.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=476", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "love their rules  every party organization does "
+          }, 
+          {
+            "cap": "love their rules.\nevery party organization does.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=476", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "love their rules  every party organization does "
+          }
+        ]
+      }, 
+      "pennsylvania,pennsylvania": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }, 
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }
+        ]
+      }, 
+      "pennsylvania,rhode": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }, 
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }
+        ]
+      }, 
+      "pennsylvania,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }, 
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }
+        ]
+      }, 
+      "phil maddingly,phil maddingly": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "can.\nlet's begin with phil maddingly.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=51", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "can  let s begin with phil maddingly "
+          }, 
+          {
+            "cap": "can.\nlet's begin with phil maddingly.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=51", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "can  let s begin with phil maddingly "
+          }
+        ]
+      }, 
+      "phil,phil": {
+        "count": 7, 
+        "matching_caps": [
+          {
+            "cap": "lakers should go since they are\nnot getting phil jackson back", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=372", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "lakers should go since they are not getting phil jackson back"
+          }, 
+          {
+            "cap": "can.\nlet's begin with phil maddingly.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=51", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "can  let s begin with phil maddingly "
+          }, 
+          {
+            "cap": " hi, phil.\n>> hi, alisyn.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=57", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": " hi  phil     hi  alisyn "
+          }, 
+          {
+            "cap": "election, that makes sense.\nappreciate it very much, phil.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=226", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "election  that makes sense  appreciate it very much  phil "
+          }, 
+          {
+            "cap": "can.\nlet's begin with phil maddingly.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=51", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "can  let s begin with phil maddingly "
+          }, 
+          {
+            "cap": " hi, phil.\n>> hi, alisyn.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=57", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": " hi  phil     hi  alisyn "
+          }, 
+          {
+            "cap": "election, that makes sense.\nappreciate it very much, phil.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=226", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "election  that makes sense  appreciate it very much  phil "
+          }
+        ]
+      }, 
+      "phil,phil maddingly": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "can.\nlet's begin with phil maddingly.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=51", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "can  let s begin with phil maddingly "
+          }, 
+          {
+            "cap": "can.\nlet's begin with phil maddingly.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=51", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "can  let s begin with phil maddingly "
+          }
+        ]
+      }, 
+      "president,president": {
+        "count": 6, 
+        "matching_caps": [
+          {
+            "cap": "better president than the gop\nnominee.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=41", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "better president than the gop nominee "
+          }, 
+          {
+            "cap": "presidential.\n>> it's so much easier to be", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=192", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "presidential     it s so much easier to be"
+          }, 
+          {
+            "cap": "presidential.\ni don't have to use any energy.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=194", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "presidential  i don t have to use any energy "
+          }, 
+          {
+            "cap": "better president than the gop\nnominee.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=41", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "better president than the gop nominee "
+          }, 
+          {
+            "cap": "presidential.\n>> it's so much easier to be", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=192", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "presidential     it s so much easier to be"
+          }, 
+          {
+            "cap": "presidential.\ni don't have to use any energy.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=194", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "presidential  i don t have to use any energy "
+          }
+        ]
+      }, 
+      "republican,republican": {
+        "count": 6, 
+        "matching_caps": [
+          {
+            "cap": "plenty of breaking news for you.\nstunning twist in the republican", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=6", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "plenty of breaking news for you  stunning twist in the republican"
+          }, 
+          {
+            "cap": "this is a mega republican donor,\nsuggests clinton could be a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=37", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "this is a mega republican donor  suggests clinton could be a"
+          }, 
+          {
+            "cap": "poised to perform well.\nthe republican front-runner", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=171", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "poised to perform well  the republican front runner"
+          }, 
+          {
+            "cap": "plenty of breaking news for you.\nstunning twist in the republican", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=6", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "plenty of breaking news for you  stunning twist in the republican"
+          }, 
+          {
+            "cap": "this is a mega republican donor,\nsuggests clinton could be a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=37", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "this is a mega republican donor  suggests clinton could be a"
+          }, 
+          {
+            "cap": "poised to perform well.\nthe republican front-runner", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=171", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "poised to perform well  the republican front runner"
+          }
+        ]
+      }, 
+      "rhode,rhode": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }, 
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }
+        ]
+      }, 
+      "rhode,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }, 
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }
+        ]
+      }, 
+      "sarina,sarina": {
+        "count": 3, 
+        "matching_caps": [
+          {
+            "cap": "continues alongside sarina\nmorales, jaymee sire, jay", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=41", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "continues alongside sarina morales  jaymee sire  jay"
+          }, 
+          {
+            "cap": "harris, i'm randy scott.\njay: sarina has what is at the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=47", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "harris  i m randy scott  jay  sarina has what is at the"
+          }, 
+          {
+            "cap": "top of her list.\nsarina: ever caught a home run", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=52", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "top of her list  sarina  ever caught a home run"
+          }
+        ]
+      }, 
+      "school,school": {
+        "count": 15, 
+        "matching_caps": [
+          {
+            "cap": "are off school as many of the\nbuildings are too damaged or", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=24", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "are off school as many of the buildings are too damaged or"
+          }, 
+          {
+            "cap": "disaster-hit areas.\none elementary school resumed", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=131", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "disaster hit areas  one elementary school resumed"
+          }, 
+          {
+            "cap": "with me friends.\n>> school officials say they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=148", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "with me friends     school officials say they"
+          }, 
+          {
+            "cap": "shelters.\n>> translator: this school gym", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=171", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "shelters     translator  this school gym"
+          }, 
+          {
+            "cap": "school gym in kumamoto city, but\nwhen the second stronger quake", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=209", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "school gym in kumamoto city  but when the second stronger quake"
+          }, 
+          {
+            "cap": ">> translator: i want to use my\nschool as a shelter if i can but", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=219", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "   translator  i want to use my school as a shelter if i can but"
+          }, 
+          {
+            "cap": "in this school.\nteachers worked to help the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=234", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "in this school  teachers worked to help the"
+          }, 
+          {
+            "cap": "are off school as many of the\nbuildings are too damaged or", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=24", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "are off school as many of the buildings are too damaged or"
+          }, 
+          {
+            "cap": "disaster-hit areas.\none elementary school resumed", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=131", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "disaster hit areas  one elementary school resumed"
+          }, 
+          {
+            "cap": "with me friends.\n>> school officials say they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=148", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "with me friends     school officials say they"
+          }, 
+          {
+            "cap": "shelters.\n>> translator: this school gym", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=171", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "shelters     translator  this school gym"
+          }, 
+          {
+            "cap": "school gym in kumamoto city, but\nwhen the second stronger quake", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=209", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "school gym in kumamoto city  but when the second stronger quake"
+          }, 
+          {
+            "cap": ">> translator: i want to use my\nschool as a shelter if i can but", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=219", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "   translator  i want to use my school as a shelter if i can but"
+          }, 
+          {
+            "cap": "in this school.\nteachers worked to help the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=234", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "in this school  teachers worked to help the"
+          }, 
+          {
+            "cap": "close eye on volume.\n>> julie: what we are used to\nseeing school vacation week and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090464.cbe3948b-a4cc-410e-b546-981b7ca829a6.mp4#t=5", 
+            "media_id": "571e3f7042325b00054b323c", 
+            "text": "close eye on volume     julie  what we are used to seeing school vacation week and"
+          }
+        ]
+      }, 
+      "shae,shae": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "when they were on their way back\nto her apartment and shae later", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=208", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "when they were on their way back to her apartment and shae later"
+          }
+        ]
+      }, 
+      "sportscenter,sportscenter": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "jay: i know, right.\nkevin: \"sportscenter:am\"", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=36", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "jay  i know  right  kevin   sportscenter am "
+          }
+        ]
+      }, 
+      "steph curry,steph curry": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "steph curry scheduled to have an\nm.r.i. on his sprained right", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=392", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "steph curry scheduled to have an m r i  on his sprained right"
+          }
+        ]
+      }, 
+      "stephen a. smith,stephen a. smith": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "will begin immediately.\nhere is our stephen a. smith on", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=288", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "will begin immediately  here is our stephen a  smith on"
+          }
+        ]
+      }, 
+      "steve kerr,steve kerr": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "past with the right knee.\nsteve kerr on the injury.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=455", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "past with the right knee  steve kerr on the injury "
+          }
+        ]
+      }, 
+      "ted cruz,ted cruz": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "race  ted cruz and john kasich keep"
+          }, 
+          {
+            "cap": "race.\nted cruz and john kasich keep", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=10", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "race  ted cruz and john kasich keep"
+          }
+        ]
+      }, 
+      "tokyo,tokyo": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "affected region.\n>> the designation allows tokyo", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=116", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "affected region     the designation allows tokyo"
+          }, 
+          {
+            "cap": "the tokyo games withdrew the\nsano's logo.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=352", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "the tokyo games withdrew the sano s logo "
+          }, 
+          {
+            "cap": "affected region.\n>> the designation allows tokyo", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=116", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "affected region     the designation allows tokyo"
+          }, 
+          {
+            "cap": "the tokyo games withdrew the\nsano's logo.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=352", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "the tokyo games withdrew the sano s logo "
+          }
+        ]
+      }, 
+      "trump,trump": {
+        "count": 22, 
+        "matching_caps": [
+          {
+            "cap": "nomination.\nwhat does trump say?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=28", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "nomination  what does trump say "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": "d\nkeeping trump from winning a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=117", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "d keeping trump from winning a"
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": "the nomination.\n>> trump lashing out, issuing a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=135", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "the nomination     trump lashing out  issuing a"
+          }, 
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }, 
+          {
+            "cap": "do you think they're going to\nstop donald trump?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=238", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "do you think they re going to stop donald trump "
+          }, 
+          {
+            "cap": ">> this type of move that's\ngoing on, donald trump calls it", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=301", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "   this type of move that s going on  donald trump calls it"
+          }, 
+          {
+            "cap": "how much of this does donald\ntrump have to thank himself for?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=310", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "how much of this does donald trump have to thank himself for "
+          }, 
+          {
+            "cap": "do you think donald trump can\nmake it out of a convention?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=495", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "do you think donald trump can make it out of a convention "
+          }, 
+          {
+            "cap": "nomination.\nwhat does trump say?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=28", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "nomination  what does trump say "
+          }, 
+          {
+            "cap": ">> hillary clinton taking aim at\ndonald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=35", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   hillary clinton taking aim at donald trump "
+          }, 
+          {
+            "cap": "donald trump.\n>> i want to the ask each and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=78", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "donald trump     i want to the ask each and"
+          }, 
+          {
+            "cap": "d\nkeeping trump from winning a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=117", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "d keeping trump from winning a"
+          }, 
+          {
+            "cap": ">> a vote for cruz or trump\nfrankly is a vote for hillary", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=127", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   a vote for cruz or trump frankly is a vote for hillary"
+          }, 
+          {
+            "cap": "the nomination.\n>> trump lashing out, issuing a", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=135", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "the nomination     trump lashing out  issuing a"
+          }, 
+          {
+            "cap": "pennsylvania and rhode island.\nstates where trump appears", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=165", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "pennsylvania and rhode island  states where trump appears"
+          }, 
+          {
+            "cap": "do you think they're going to\nstop donald trump?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=238", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "do you think they re going to stop donald trump "
+          }, 
+          {
+            "cap": ">> this type of move that's\ngoing on, donald trump calls it", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=301", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "   this type of move that s going on  donald trump calls it"
+          }, 
+          {
+            "cap": "how much of this does donald\ntrump have to thank himself for?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=310", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "how much of this does donald trump have to thank himself for "
+          }, 
+          {
+            "cap": "do you think donald trump can\nmake it out of a convention?", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=495", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "do you think donald trump can make it out of a convention "
+          }
+        ]
+      }, 
+      "u.s.,u.s.": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "a u.s. hydrogen bomb site is to\nfile a suit against the japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=422", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "a u s  hydrogen bomb site is to file a suit against the japanese"
+          }, 
+          {
+            "cap": "a u.s. hydrogen bomb site is to\nfile a suit against the japanese", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=422", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "a u s  hydrogen bomb site is to file a suit against the japanese"
+          }
+        ]
+      }, 
+      "us.,us.": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "adjust to us.\ni think this is exactly what", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=263", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "adjust to us  i think this is exactly what"
+          }, 
+          {
+            "cap": "adjust to us.\ni think this is exactly what", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=263", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "adjust to us  i think this is exactly what"
+          }
+        ]
+      }, 
+      "washington,washington": {
+        "count": 3, 
+        "matching_caps": [
+          {
+            "cap": "washington examiner byron york,\ngood morning to you.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461600090354.223108e6-fae2-4c8b-9da1-2e650adbae7d.mp4#t=11", 
+            "media_id": "571e3f7242325b00054b323d", 
+            "text": "washington examiner byron york  good morning to you "
+          }, 
+          {
+            "cap": "many other industries and yet\nthese two washington insiders", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=142", 
+            "media_id": "571e316a9c4722000fd52fdb", 
+            "text": "many other industries and yet these two washington insiders"
+          }, 
+          {
+            "cap": "many other industries and yet\nthese two washington insiders", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461596485264.35b73992-aa12-402a-b69c-89e808592724.mp4#t=142", 
+            "media_id": "571e316a42325b00054b2e9b", 
+            "text": "many other industries and yet these two washington insiders"
+          }
+        ]
+      }, 
+      "west,west": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": "were withdrawn.\n>>> rescue crews in southwestern", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=46", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "were withdrawn      rescue crews in southwestern"
+          }, 
+          {
+            "cap": "were withdrawn.\n>>> rescue crews in southwestern", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=46", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "were withdrawn      rescue crews in southwestern"
+          }, 
+          {
+            "cap": "state and speak to a man by the\nname of jerry west and remind", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=331", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "state and speak to a man by the name of jerry west and remind"
+          }, 
+          {
+            "cap": "get jerry west back and allow\nhim to groom his son to be the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461597879009.e77d5cb4-4056-41e3-93a2-b617b9a9bddd.mp4#t=350", 
+            "media_id": "571e36d69c4722000fd52fdc", 
+            "text": "get jerry west back and allow him to groom his son to be the"
+          }
+        ]
+      }, 
+      "yuji osawa,yuji osawa": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "and it's hoped they will be\nyuji osawa, nhk world.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=413", 
+            "media_id": "571e4af61cd466000dfe2f0d", 
+            "text": "and it s hoped they will be yuji osawa  nhk world "
+          }, 
+          {
+            "cap": "and it's hoped they will be\nyuji osawa, nhk world.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1461603021992.c5a35917-7be6-46dd-8fae-f5403111f44a.mp4#t=413", 
+            "media_id": "571e4af610af3c000ee3d614", 
+            "text": "and it s hoped they will be yuji osawa  nhk world "
+          }
+        ]
+      }
+    }, 
+    "sets_length": 118, 
+    "top_entites": [
+      "president", 
+      "u.s.", 
+      "hillary clinton", 
+      "bernie sanders", 
+      "donald trump", 
+      "new york", 
+      "syria", 
+      "john kasich", 
+      "liberty mutual", 
+      "ohio", 
+      "indiana", 
+      "ted cruz", 
+      "cruz", 
+      "kasich", 
+      "california", 
+      "europe", 
+      "barack obama", 
+      "tokyo", 
+      "maryland", 
+      "school", 
+      "european union", 
+      "cleveland", 
+      "republican", 
+      "official", 
+      "at&t", 
+      "washington", 
+      "iraq", 
+      "insurance company", 
+      "democrats", 
+      "oil prices", 
+      "saudi arabia", 
+      "government", 
+      "attorney", 
+      "belgium", 
+      "cynthia bourgeault", 
+      "american troops", 
+      "campaign manager", 
+      "michaela", 
+      "international olympic committee", 
+      "insurance premium", 
+      "ron nehring", 
+      "arthritis pain", 
+      "donald trump.", 
+      "chris", 
+      "pie chart", 
+      "josh atkins", 
+      "monica lewinsky", 
+      "prince", 
+      "edf", 
+      "hillary clinton.", 
+      "rosario dawson", 
+      "marshall goldsmith", 
+      "kumamoto prefecture", 
+      "macau", 
+      "john", 
+      "america", 
+      "west", 
+      "bloomberg", 
+      "korea", 
+      "nfl", 
+      "obama", 
+      "cnn", 
+      "berlin", 
+      "egypt", 
+      "indonesia", 
+      "freedom party", 
+      "billy paul", 
+      "toyota", 
+      "olivier deby", 
+      "us.", 
+      "lois", 
+      "liberty mutual insurance.", 
+      "phil maddingly", 
+      "softbank", 
+      "trump", 
+      "baseball", 
+      "carol", 
+      "kumamoto", 
+      "korea.", 
+      "pyongyang", 
+      "wyoming", 
+      "phil", 
+      "oregon", 
+      "kathmandu", 
+      "willis barnstone", 
+      "coleman barks", 
+      "james tengan", 
+      "yuji osawa", 
+      "inder mohan singh", 
+      "cruz camp", 
+      "u.s. federal reserve", 
+      "hong", 
+      "guru granth sahib", 
+      "china", 
+      "japanese government", 
+      "japan.", 
+      "japan", 
+      "ken mcleod", 
+      "nhk", 
+      "austria", 
+      "frontline plus", 
+      "arthritis pain", 
+      "church", 
+      "jewish sabbath", 
+      "diane rehm", 
+      "sherry turkle", 
+      "bartholomew", 
+      "american society", 
+      "pope francis", 
+      "san francisco", 
+      "john kerry", 
+      "professor", 
+      "roman catholic", 
+      "arthur", 
+      "nonprofit group", 
+      "bonnie erbe", 
+      "phil bryant", 
+      "lady mae", 
+      "josie", 
+      "pew research center", 
+      "leverett", 
+      "cancer", 
+      "greece", 
+      "bernie", 
+      "windows", 
+      "stephen a. smith", 
+      "passover", 
+      "massachusetts institute of technology", 
+      "kim lawton", 
+      "mr. selfridge", 
+      "kevin", 
+      "betty liu", 
+      "shiri spear", 
+      "chris heisey", 
+      "d.a.", 
+      "florida", 
+      "shae", 
+      "espn", 
+      "dallas", 
+      "pete weber", 
+      "ceo", 
+      "norwood", 
+      "jeff van gundy", 
+      "panthers", 
+      "brookline", 
+      "jeff teague", 
+      "john tavares", 
+      "chicago", 
+      "dow", 
+      "klay thompson", 
+      "kitty", 
+      "hawks", 
+      "reggie jackson", 
+      "oak foundation", 
+      "keene", 
+      "hillary", 
+      "worcester", 
+      "germany", 
+      "turkey", 
+      "johnny manziel", 
+      "byron scott", 
+      "charleston", 
+      "harry", 
+      "fitchburg", 
+      "brighton", 
+      "steve kerr", 
+      "islanders", 
+      "steph curry", 
+      "mr. obama", 
+      "congress", 
+      "assault", 
+      "nba", 
+      "spurs", 
+      "sarina", 
+      "state police", 
+      "sportscenter", 
+      "pyramid scheme", 
+      "deutsche bundesbank", 
+      "dubai", 
+      "bed.", 
+      "patriots", 
+      "sarina morales", 
+      "goldschmidt", 
+      "liberty mutual insurance", 
+      "obama administration", 
+      "abigail doolittle", 
+      "frankfurt", 
+      "apple", 
+      "eurozone", 
+      "halliburton", 
+      "braintree", 
+      "mario lemieux", 
+      "tesco", 
+      "london", 
+      "analyst", 
+      "u.k.", 
+      "julie hyman", 
+      "shiri", 
+      "crown prince", 
+      "senator cruz", 
+      "oil companies", 
+      "iphone", 
+      "loretta lynch", 
+      "marty walsh", 
+      "celtics", 
+      "north carolina", 
+      "area of low pressure", 
+      "beverly", 
+      "senator ted cruz", 
+      "new hampshire", 
+      "plymouth", 
+      "warriors", 
+      "nasdaq", 
+      "sox", 
+      "portsmouth", 
+      "medford", 
+      "plymouth district court", 
+      "online editor of", 
+      "rockets", 
+      "daniel miller.", 
+      "republican party", 
+      "mark barton", 
+      "ed henry", 
+      "virginia", 
+      "south carolina", 
+      "u.s. secretary of state", 
+      "kevin corke", 
+      "philly", 
+      "attempted murder", 
+      "mississippi", 
+      "lucas mcpherson", 
+      "npr", 
+      "rhode", 
+      "nashua", 
+      "jessica reyes", 
+      "betty", 
+      "officer", 
+      "olive garden", 
+      "mexico.", 
+      "duxbury", 
+      "cleveland browns", 
+      "town hall", 
+      "district attorney", 
+      "italy", 
+      "pistons", 
+      "jay harris", 
+      "brad stevens", 
+      "wisconsin", 
+      "philadelphia", 
+      "catherine parrotta", 
+      "pennsylvania", 
+      "martha maccallum", 
+      "secretary of state", 
+      "new york times", 
+      "party", 
+      "manchester", 
+      "byron york", 
+      "jays", 
+      "united kingdom", 
+      "jerusalem", 
+      "chris broussard", 
+      "basketball", 
+      "julie grauert", 
+      "angeles lakers", 
+      "bob kraft", 
+      "class a", 
+      "exxon", 
+      "boston", 
+      "steve hayes", 
+      "governor kasich", 
+      "kyrie irving", 
+      "desperation", 
+      "ecuador", 
+      "bryce harper"
+    ]
+  }
+}
