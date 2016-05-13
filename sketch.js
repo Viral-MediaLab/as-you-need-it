@@ -25,7 +25,7 @@ var selected  = -1;
 var offset = 0;
 var numOfEntitiesToShow = 50;
 
-var loadLocal = false;
+var loadLocal = true;
 //hasSuperGlueData = false
 
 var videosMode = true;
@@ -38,7 +38,7 @@ function preload() {
   if (!loadLocal) {
     getSuperGlueData();
   } else {
-    loadJSON('data/data-05-11-2-days.json', superGlueloadCallback)
+    loadJSON('data/data-05-11-replacement.json', superGlueloadCallback)
   }
   
   robotoFont = loadFont('assets/Roboto-Regular.ttf');

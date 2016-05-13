@@ -143,8 +143,20 @@ function Cluster(n,d,nodes, connectionsMatrix) {
   }
   
   this.moveAllAccordingToSelected = function() {
-     currVid.hide();
-     currVid.setLink("")
+     //currVid.hide();
+      currVid.setLink("")
+      currVid.show();
+      var selectedPair = [this.nodes[selected].name, this.nodes[selected].name].join(',');
+      //print (selectedPair)
+      if (selectedPair in entitiesMatrix) {
+        videoLink = entitiesMatrix[selectedPair].matching_caps[0].link
+        currVid.setLink(videoLink)
+        currVid.play();
+      }
+      else {
+        currVid.hide();
+      }
+     
      physics.springs = []
      this.moveNodeToTarget(selected, this.selectedLocation)
      indexList = []

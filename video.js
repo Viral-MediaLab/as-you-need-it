@@ -14,6 +14,7 @@ function Video() {
   this.vid.size(this.w-this.margins*2, this.h-this.margins*2)
   this.vid.position(this.x+this.margins, this.y+this.margins)
   this.vid.attribute("poster", "loading_spinner.gif")
+  this.vid.attribute("controls", "true");
   //this.vid.mousePressed(this.toggleVid())
   this.shown = false;
   
