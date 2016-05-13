@@ -25,7 +25,7 @@ var selected  = -1;
 var offset = 0;
 var numOfEntitiesToShow = 50;
 
-var loadLocal = true;
+var loadLocal = false;
 //hasSuperGlueData = false
 
 var videosMode = true;
