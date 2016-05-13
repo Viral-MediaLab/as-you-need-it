@@ -23,7 +23,7 @@ var minDim;
 
 var selected  = -1;
 var offset = 0;
-var numOfEntitiesToShow = 40;
+var numOfEntitiesToShow = 35;
 
 var loadLocal = false;
 //hasSuperGlueData = false
@@ -139,7 +139,7 @@ function drawExplenations() {
 
 
 function getSuperGlueData() {
-  var url = 'http://super-glue.media.mit.edu/frequent_itemsets?aligned=true'
+  var url = 'http://super-glue.media.mit.edu/frequent_itemsets'
   loadJSON(encodeURI(url), superGlueloadCallback);
 }
 
