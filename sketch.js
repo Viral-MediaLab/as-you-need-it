@@ -23,7 +23,7 @@ var minDim;
 
 var selected  = -1;
 var offset = 0;
-var numOfEntitiesToShow = 50;
+var numOfEntitiesToShow = 40;
 
 var loadLocal = false;
 //hasSuperGlueData = false
