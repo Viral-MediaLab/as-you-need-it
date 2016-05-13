@@ -139,7 +139,7 @@ function drawExplenations() {
 
 
 function getSuperGlueData() {
-  var url = 'http://super-glue.media.mit.edu/frequent_itemsets'
+  var url = 'http://super-glue.media.mit.edu/frequent_itemsets?aligned=true'
   loadJSON(encodeURI(url), superGlueloadCallback);
 }
 

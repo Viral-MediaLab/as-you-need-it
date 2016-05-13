@@ -63,7 +63,7 @@ function Cluster(n,d,nodes, connectionsMatrix) {
     for (var i=0; i<this.nodes.length; i++) {
       for (var j=0; j<this.nodes.length; j++){
         if (this.shownEntities[i] && this.shownEntities[j]){
-          var length = (this.nodes[i].r+ this.nodes[j].r)/2 + 15
+          var length = (this.nodes[i].r+ this.nodes[j].r)/2 + 17
           physics.addSpring(new VerletMinDistanceSpring2D(this.nodes[i], this.nodes[j], length, 0.1))
         }
       }
