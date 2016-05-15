@@ -25,7 +25,7 @@ var selected  = -1;
 var offset = 0;
 var numOfEntitiesToShow = 35;
 
-var loadLocal = false;
+var loadLocal = true;
 //hasSuperGlueData = false
 
 var videosMode = true;
@@ -38,7 +38,7 @@ function preload() {
   if (!loadLocal) {
     getSuperGlueData();
   } else {
-    loadJSON('data/data-05-11-replacement.json', superGlueloadCallback)
+    loadJSON('data/data-05-15.json', superGlueloadCallback)
   }
   
   robotoFont = loadFont('assets/Roboto-Regular.ttf');
@@ -141,8 +141,10 @@ function drawExplenations() {
 function getSuperGlueData() {
   // window=2?
   var url = 'http://super-glue.media.mit.edu/frequent_itemsets?window=2'
-  loadJSON(encodeURI(url), superGlueloadCallback);
+  loadJSON(encodeURI(url), superGlueloadCallback, errorCallback);
 }
+
+var calledAgain = false;
 
 function superGlueloadCallback(data) {
   results = data.results;
@@ -157,6 +159,19 @@ function superGlueloadCallback(data) {
       maxPairCount = pair.count
     }
   }
+}
+
+function errorCallback(response) {
+  print ("in error callback!!")
+  if (!calledAgain) {
+    calledAgain = true;
+    var url = 'http://super-glue.media.mit.edu/frequent_itemsets?window=1'
+    loadJSON(encodeURI(url), superGlueloadCallback, errorCallback);
+  }
+  else {
+    loadJSON('data/data-05-15.json', superGlueloadCallback);
+  }
+  
 }
 
 function createNumbersMatrix() {
