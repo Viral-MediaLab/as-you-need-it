@@ -38,7 +38,7 @@ function preload() {
   if (!loadLocal) {
     getSuperGlueData();
   } else {
-    loadJSON('data/data-05-15-2-days.json', superGlueloadCallback)
+    loadJSON('data/data-05-16.json', superGlueloadCallback)
   }
   
   robotoFont = loadFont('assets/Roboto-Regular.ttf');
@@ -140,7 +140,7 @@ function drawExplenations() {
 
 function getSuperGlueData() {
   // window=2?
-  var url = 'http://super-glue.media.mit.edu/frequent_itemsets?window=2'
+  var url = 'http://super-glue.media.mit.edu/frequent_itemsets' //?window=2'
   loadJSON(encodeURI(url), superGlueloadCallback, errorCallback);
 }
 
