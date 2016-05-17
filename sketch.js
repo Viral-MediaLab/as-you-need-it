@@ -38,7 +38,7 @@ function preload() {
   if (!loadLocal) {
     getSuperGlueData();
   } else {
-    loadJSON('data/data-05-16.json', superGlueloadCallback)
+    loadJSON('data/data-05-17-1-day.json', superGlueloadCallback)
   }
   
   robotoFont = loadFont('assets/Roboto-Regular.ttf');
