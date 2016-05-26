@@ -1,0 +1,2306 @@
+{
+  "args": {
+    "limit": 200, 
+    "window": 1
+  }, 
+  "results": {
+    "num_entities": 200, 
+    "run_time": 6485, 
+    "scored_entities": [
+      [
+        "donald trump", 
+        56.413146499999996
+      ], 
+      [
+        "senator bernie sanders", 
+        53.436756100000004
+      ], 
+      [
+        "boston police department", 
+        45.50242411000001
+      ], 
+      [
+        "martha", 
+        27.531108
+      ], 
+      [
+        "hillary clinton", 
+        25.1291656
+      ], 
+      [
+        "daniel miller", 
+        23.90896
+      ], 
+      [
+        "lisa concernie", 
+        21.764522
+      ], 
+      [
+        "michael", 
+        14.569029
+      ], 
+      [
+        "china", 
+        13.88884
+      ], 
+      [
+        "foring hillary", 
+        13.741825899999998
+      ], 
+      [
+        "republicans", 
+        12.6782398
+      ], 
+      [
+        "democrats", 
+        12.103469400000002
+      ], 
+      [
+        "barry diller", 
+        11.9492
+      ], 
+      [
+        "alibaba", 
+        10.66504
+      ], 
+      [
+        "officer", 
+        10.107446
+      ], 
+      [
+        "yahoo", 
+        9.001439999999999
+      ], 
+      [
+        "hughesnet", 
+        8.917026
+      ], 
+      [
+        "president obama", 
+        7.846217302000001
+      ], 
+      [
+        "ralph nader", 
+        7.069095
+      ], 
+      [
+        "tribune.", 
+        6.72522
+      ], 
+      [
+        "lebron", 
+        6.660605
+      ], 
+      [
+        "cavaliers", 
+        6.4096542
+      ], 
+      [
+        "tesla", 
+        6.048109999999999
+      ], 
+      [
+        "chris bosh", 
+        5.94477
+      ], 
+      [
+        "cash flow", 
+        5.88885
+      ], 
+      [
+        "interest rates", 
+        5.76016
+      ], 
+      [
+        "miami", 
+        5.50197
+      ], 
+      [
+        "kickers", 
+        5.436535
+      ], 
+      [
+        "nba", 
+        4.493754
+      ], 
+      [
+        "joe cy", 
+        4.454384
+      ], 
+      [
+        "aarp", 
+        4.171248
+      ], 
+      [
+        "congress", 
+        4.13396
+      ], 
+      [
+        "dwyane wade", 
+        4.09252
+      ], 
+      [
+        "braintree", 
+        3.906252
+      ], 
+      [
+        "david", 
+        3.8229599999999997
+      ], 
+      [
+        "voya", 
+        3.814992
+      ], 
+      [
+        "expedia", 
+        3.740488
+      ], 
+      [
+        "canada", 
+        3.698484
+      ], 
+      [
+        "california", 
+        3.59875
+      ], 
+      [
+        "lowell sun", 
+        3.5725558
+      ], 
+      [
+        "tom penn", 
+        3.435024
+      ], 
+      [
+        "ceo", 
+        3.360684
+      ], 
+      [
+        "tim cook", 
+        3.313722
+      ], 
+      [
+        "amazon", 
+        3.3076920000000003
+      ], 
+      [
+        "worcester", 
+        3.1704179999999997
+      ], 
+      [
+        "new hampshire", 
+        3.0449960000000003
+      ], 
+      [
+        "unitedhealthcare insurance company", 
+        2.8329779999999998
+      ], 
+      [
+        "dunkin", 
+        2.7432299999999996
+      ], 
+      [
+        "stock market", 
+        2.727846
+      ], 
+      [
+        "nantucket", 
+        2.6975900000000004
+      ], 
+      [
+        "toronto", 
+        2.692392
+      ], 
+      [
+        "airbnb", 
+        2.6837400000000002
+      ], 
+      [
+        "massachusetts", 
+        2.6344079999999996
+      ], 
+      [
+        "adam caplan", 
+        2.58377
+      ], 
+      [
+        "zynga", 
+        2.583624
+      ], 
+      [
+        "karl rove", 
+        2.554842
+      ], 
+      [
+        "nicole briscoe", 
+        2.544619
+      ], 
+      [
+        "danielle gersh.", 
+        2.524065
+      ], 
+      [
+        "cleveland", 
+        2.5116
+      ], 
+      [
+        "cbs", 
+        2.50341
+      ], 
+      [
+        "texas", 
+        2.5020949999999997
+      ], 
+      [
+        "paxton lynch", 
+        2.48061
+      ], 
+      [
+        "senate", 
+        2.361465
+      ], 
+      [
+        "espn", 
+        2.357238
+      ], 
+      [
+        "league", 
+        2.34429
+      ], 
+      [
+        "summerville", 
+        2.3078616
+      ], 
+      [
+        "kay jewelers", 
+        2.1724866
+      ], 
+      [
+        "washington journal", 
+        2.0384436
+      ], 
+      [
+        "democratic party", 
+        1.9833303600000005
+      ], 
+      [
+        "new york times", 
+        1.9761980000000001
+      ], 
+      [
+        "janet yellen", 
+        1.975364
+      ], 
+      [
+        "sam bradford", 
+        1.9477799999999998
+      ], 
+      [
+        "alzheimer", 
+        1.921815
+      ], 
+      [
+        "yankees", 
+        1.87866
+      ], 
+      [
+        "medicare", 
+        1.852192
+      ], 
+      [
+        "denver", 
+        1.82998
+      ], 
+      [
+        "dorchester", 
+        1.821022
+      ], 
+      [
+        "dow", 
+        1.812476
+      ], 
+      [
+        "jeff smith", 
+        1.80864
+      ], 
+      [
+        "pinky", 
+        1.781288
+      ], 
+      [
+        "scout", 
+        1.7691
+      ], 
+      [
+        "rebecca gregory", 
+        1.7499200000000001
+      ], 
+      [
+        "td ameritrade", 
+        1.722308
+      ], 
+      [
+        "ali baba", 
+        1.715316
+      ], 
+      [
+        "chairman", 
+        1.6788
+      ], 
+      [
+        "dave mcmenamin", 
+        1.670885
+      ], 
+      [
+        "johnny manziel", 
+        1.662475
+      ], 
+      [
+        "travelocity", 
+        1.659504
+      ], 
+      [
+        "microsoft", 
+        1.654744
+      ], 
+      [
+        "fitchburg", 
+        1.638108
+      ], 
+      [
+        "mark sanchez", 
+        1.633096
+      ], 
+      [
+        "broncos", 
+        1.45268
+      ], 
+      [
+        "j.r. smith", 
+        1.425868
+      ], 
+      [
+        "george w. bush.", 
+        1.4149962200000001
+      ], 
+      [
+        "reilly michelle", 
+        1.376692
+      ], 
+      [
+        "justin bieber", 
+        1.372212
+      ], 
+      [
+        "ilona", 
+        1.366092
+      ], 
+      [
+        "sodastream", 
+        1.30756
+      ], 
+      [
+        "dedham", 
+        1.28538
+      ], 
+      [
+        "hawks", 
+        1.28534
+      ], 
+      [
+        "frontline plus", 
+        1.22612
+      ], 
+      [
+        "sox", 
+        1.215812
+      ], 
+      [
+        "kyle lowry", 
+        1.2075834
+      ], 
+      [
+        "jane krakowski", 
+        1.187721
+      ], 
+      [
+        "weymouth", 
+        1.186194
+      ], 
+      [
+        "heartburn", 
+        1.147832
+      ], 
+      [
+        "ted cruz", 
+        1.13714
+      ], 
+      [
+        "michigan", 
+        1.12222
+      ], 
+      [
+        "kyrie irving", 
+        1.093152
+      ], 
+      [
+        "police chief", 
+        1.0793706
+      ], 
+      [
+        "nicole oliverio", 
+        1.055787
+      ], 
+      [
+        "jennifer eagan", 
+        1.037664
+      ], 
+      [
+        "nancy chin.", 
+        1.004073
+      ], 
+      [
+        "bucs", 
+        1.001871
+      ], 
+      [
+        "flames", 
+        1.001403
+      ], 
+      [
+        "cheryl fiandaca", 
+        0.974502
+      ], 
+      [
+        "norwood", 
+        0.9461189999999999
+      ], 
+      [
+        "iraq", 
+        0.90492
+      ], 
+      [
+        "digital advertising", 
+        0.87273
+      ], 
+      [
+        "holy grail", 
+        0.871536
+      ], 
+      [
+        "carly", 
+        0.865118
+      ], 
+      [
+        "peabody", 
+        0.864595
+      ], 
+      [
+        "allison", 
+        0.861152
+      ], 
+      [
+        "europe", 
+        0.851218
+      ], 
+      [
+        "allergies", 
+        0.8478180000000001
+      ], 
+      [
+        "fbi", 
+        0.830104
+      ], 
+      [
+        "tim geithner", 
+        0.828878
+      ], 
+      [
+        "wall street journal", 
+        0.806988
+      ], 
+      [
+        "blood pressure", 
+        0.8062019999999999
+      ], 
+      [
+        "peter johnson", 
+        0.7821720000000001
+      ], 
+      [
+        "senator scott brown", 
+        0.771849
+      ], 
+      [
+        "christmas", 
+        0.770156
+      ], 
+      [
+        "clintons", 
+        0.7624770000000001
+      ], 
+      [
+        "diabetes", 
+        0.7386539999999999
+      ], 
+      [
+        "zales", 
+        0.718386
+      ], 
+      [
+        "jon bon jovi", 
+        0.697856
+      ], 
+      [
+        "john bell", 
+        0.680565
+      ], 
+      [
+        "muddle", 
+        0.676418
+      ], 
+      [
+        "directv", 
+        0.671
+      ], 
+      [
+        "bill clinton", 
+        0.670554
+      ], 
+      [
+        "honda accord", 
+        0.654622
+      ], 
+      [
+        "hockey", 
+        0.653764
+      ], 
+      [
+        "headache", 
+        0.640842
+      ], 
+      [
+        "gavin creel", 
+        0.635112
+      ], 
+      [
+        "intensive care", 
+        0.62575
+      ], 
+      [
+        "cfpb", 
+        0.622634
+      ], 
+      [
+        "celtics", 
+        0.614682
+      ], 
+      [
+        "cayenne", 
+        0.592066
+      ], 
+      [
+        "bill o'reilly", 
+        0.561226
+      ], 
+      [
+        "newt gingrich", 
+        0.538066
+      ], 
+      [
+        "u.s. navy seal", 
+        0.533676
+      ], 
+      [
+        "john kasich", 
+        0.53323
+      ], 
+      [
+        "arkansas", 
+        0.532204
+      ], 
+      [
+        "florida", 
+        0.5057
+      ], 
+      [
+        "scientist", 
+        0.492924
+      ], 
+      [
+        "presidential campaign.", 
+        0.49287700000000007
+      ], 
+      [
+        "rhode island", 
+        0.46348
+      ], 
+      [
+        "south carolina", 
+        0.461048
+      ], 
+      [
+        "saddam hussein", 
+        0.448508
+      ], 
+      [
+        "general motors", 
+        0.432568
+      ], 
+      [
+        "afghanistan", 
+        0.417702
+      ], 
+      [
+        "demar", 
+        0.319858
+      ], 
+      [
+        "wash.", 
+        0.318562
+      ], 
+      [
+        "citi.", 
+        0.317948
+      ], 
+      [
+        "kris anderson", 
+        0.317456
+      ], 
+      [
+        "geebo", 
+        0.306494
+      ], 
+      [
+        "kentucky", 
+        0.306201
+      ], 
+      [
+        "deputy chief of staff", 
+        0.280878
+      ], 
+      [
+        "asthma", 
+        0.277601
+      ], 
+      [
+        "gop primary", 
+        0.255738
+      ], 
+      [
+        "diarrhea", 
+        0.247156
+      ], 
+      [
+        "west virginia", 
+        0.226878
+      ], 
+      [
+        "monmouth", 
+        0.222424
+      ], 
+      [
+        "san bernardino", 
+        0.216382
+      ], 
+      [
+        "constitution hall", 
+        0.213987
+      ], 
+      [
+        "illinois", 
+        0.213966
+      ], 
+      [
+        "plato", 
+        0.209646
+      ], 
+      [
+        "health insurance", 
+        0.207954
+      ], 
+      [
+        "athens", 
+        0.202816
+      ]
+    ], 
+    "scored_entities_length": 179, 
+    "sets": {
+      "america,bill o'reilly": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "martha: bill o'reilly will be\nwith us on america's newsroom to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1296", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "martha  bill o reilly will be with us on america s newsroom to"
+          }, 
+          {
+            "cap": "martha: bill o'reilly will be\nwith us on america's newsroom to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1296", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "martha  bill o reilly will be with us on america s newsroom to"
+          }
+        ]
+      }, 
+      "america,cavaliers": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "melissa: t values as\namericans, vote yes or vote no,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=2438", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "melissa  t values as americans  vote yes or vote no "
+          }, 
+          {
+            "cap": "melissa: t values as\namericans, vote yes or vote no,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=2438", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "melissa  t values as americans  vote yes or vote no "
+          }
+        ]
+      }, 
+      "america,hughesnet": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": " hughesnet: america's number one", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=2189", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": " hughesnet  america s number one"
+          }, 
+          {
+            "cap": " hughesnet: america's number one", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=2189", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": " hughesnet  america s number one"
+          }
+        ]
+      }, 
+      "america,martha": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "martha: bill o'reilly will be\nwith us on america's newsroom to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1296", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "martha  bill o reilly will be with us on america s newsroom to"
+          }, 
+          {
+            "cap": "martha: bill o'reilly will be\nwith us on america's newsroom to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1296", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "martha  bill o reilly will be with us on america s newsroom to"
+          }
+        ]
+      }, 
+      "america,val": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "melissa: t values as\namericans, vote yes or vote no,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=2438", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "melissa  t values as americans  vote yes or vote no "
+          }, 
+          {
+            "cap": "melissa: t values as\namericans, vote yes or vote no,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=2438", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "melissa  t values as americans  vote yes or vote no "
+          }
+        ]
+      }, 
+      "bill o'reilly,martha": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "martha: bill o'reilly will be\nwith us on america's newsroom to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1296", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "martha  bill o reilly will be with us on america s newsroom to"
+          }
+        ]
+      }, 
+      "boston police department,braintree": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "south of town over half an hour\nfrom braintree to boston on the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=879", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "south of town over half an hour from braintree to boston on the"
+          }, 
+          {
+            "cap": "this morning.\nbraintree to boston on the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=897", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "this morning  braintree to boston on the"
+          }
+        ]
+      }, 
+      "boston police department,christmas": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "495 to get into boston.\nmy maps look like christmas.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=861", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "495 to get into boston  my maps look like christmas "
+          }
+        ]
+      }, 
+      "boston police department,dow": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "rain along the coast but coastal\nflood advisory here from boston\ndown across the south shore,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=156", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "rain along the coast but coastal flood advisory here from boston down across the south shore "
+          }, 
+          {
+            "cap": "from boston down across the\nsouth shore, the cape and\nnantucket for that potential for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1877", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "from boston down across the south shore  the cape and nantucket for that potential for"
+          }
+        ]
+      }, 
+      "boston police department,nantucket": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "from boston down across the\nsouth shore, the cape and\nnantucket for that potential for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1877", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "from boston down across the south shore  the cape and nantucket for that potential for"
+          }, 
+          {
+            "cap": "boston through the south shore\ncape cod and nantucket.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=822", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "boston through the south shore cape cod and nantucket "
+          }
+        ]
+      }, 
+      "boston police department,police chief": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "60s on monday.\nback to you.\n>> daniel: boston police", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=2008", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "60s on monday  back to you     daniel  boston police"
+          }
+        ]
+      }, 
+      "boston,braintree": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "south of town over half an hour\nfrom braintree to boston on the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=879", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "south of town over half an hour from braintree to boston on the"
+          }, 
+          {
+            "cap": "this morning.\nbraintree to boston on the", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=897", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "this morning  braintree to boston on the"
+          }
+        ]
+      }, 
+      "boston,christmas": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "495 to get into boston.\nmy maps look like christmas.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=861", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "495 to get into boston  my maps look like christmas "
+          }
+        ]
+      }, 
+      "boston,dow": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "rain along the coast but coastal\nflood advisory here from boston\ndown across the south shore,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=156", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "rain along the coast but coastal flood advisory here from boston down across the south shore "
+          }, 
+          {
+            "cap": "from boston down across the\nsouth shore, the cape and\nnantucket for that potential for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1877", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "from boston down across the south shore  the cape and nantucket for that potential for"
+          }
+        ]
+      }, 
+      "boston,nantucket": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "from boston down across the\nsouth shore, the cape and\nnantucket for that potential for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1877", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "from boston down across the south shore  the cape and nantucket for that potential for"
+          }, 
+          {
+            "cap": "boston through the south shore\ncape cod and nantucket.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=822", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "boston through the south shore cape cod and nantucket "
+          }
+        ]
+      }, 
+      "boston,police": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "60s on monday.\nback to you.\n>> daniel: boston police", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=2008", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "60s on monday  back to you     daniel  boston police"
+          }
+        ]
+      }, 
+      "boston,police chief": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "60s on monday.\nback to you.\n>> daniel: boston police", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=2008", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "60s on monday  back to you     daniel  boston police"
+          }
+        ]
+      }, 
+      "bush,president": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "aren't backing him.\nboth bush presidents said they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1321", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "aren t backing him  both bush presidents said they"
+          }
+        ]
+      }, 
+      "bush,presidential campaign.": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "aren't backing him.\nboth bush presidents said they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1321", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "aren t backing him  both bush presidents said they"
+          }
+        ]
+      }, 
+      "canada,martha": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "martha: a state of emergency is\ndeclared in alberta, canada", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1618", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "martha  a state of emergency is declared in alberta  canada"
+          }
+        ]
+      }, 
+      "cavaliers,donald trump": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "cavaliers,president": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "cavaliers,presidential campaign.": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "cavaliers,trump": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "democrat,foring hillary": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democrat,hillary": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democrat,hillary clinton": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democratic party,democrats": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }, 
+          {
+            "cap": "bill: a federal judge says he\nmay order the democratic", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=738", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "bill  a federal judge says he may order the democratic"
+          }
+        ]
+      }, 
+      "democratic party,foring hillary": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democratic party,hillary": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democratic party,hillary clinton": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democrats,foring hillary": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democrats,hillary": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "democrats,hillary clinton": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }
+        ]
+      }, 
+      "donald trump,foring hillary": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "the governor will not vote for\ntrump or hillary clinton.\nbaker also expressed his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1327", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "the governor will not vote for trump or hillary clinton  baker also expressed his"
+          }, 
+          {
+            "cap": "they are politicians.\nhillary clinton told cnn trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1339", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "they are politicians  hillary clinton told cnn trump"
+          }
+        ]
+      }, 
+      "donald trump,hillary": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "the governor will not vote for\ntrump or hillary clinton.\nbaker also expressed his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1327", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "the governor will not vote for trump or hillary clinton  baker also expressed his"
+          }, 
+          {
+            "cap": "they are politicians.\nhillary clinton told cnn trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1339", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "they are politicians  hillary clinton told cnn trump"
+          }
+        ]
+      }, 
+      "donald trump,hillary clinton": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "the governor will not vote for\ntrump or hillary clinton.\nbaker also expressed his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1327", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "the governor will not vote for trump or hillary clinton  baker also expressed his"
+          }, 
+          {
+            "cap": "they are politicians.\nhillary clinton told cnn trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1339", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "they are politicians  hillary clinton told cnn trump"
+          }
+        ]
+      }, 
+      "donald trump,obama": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "loses to barack obama.\nwhere does donald trump pick up.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1895", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "loses to barack obama  where does donald trump pick up "
+          }
+        ]
+      }, 
+      "donald trump,president": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "donald trump,president obama": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "loses to barack obama.\nwhere does donald trump pick up.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1895", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "loses to barack obama  where does donald trump pick up "
+          }
+        ]
+      }, 
+      "donald trump,presidential campaign.": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "donald trump,republican": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "have a united unified republican\nparty, but i, donald trump won", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1180", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "have a united unified republican party  but i  donald trump won"
+          }, 
+          {
+            "cap": "trump.\nbill: former republican", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1308", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "trump  bill  former republican"
+          }
+        ]
+      }, 
+      "donald trump,republicans": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "have a united unified republican\nparty, but i, donald trump won", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1180", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "have a united unified republican party  but i  donald trump won"
+          }, 
+          {
+            "cap": "trump.\nbill: former republican", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1308", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "trump  bill  former republican"
+          }
+        ]
+      }, 
+      "donald trump,val": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "donald,dow": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "talk about the interesting\nsit-down he had with donald", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1302", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "talk about the interesting sit down he had with donald"
+          }
+        ]
+      }, 
+      "donald,obama": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "loses to barack obama.\nwhere does donald trump pick up.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1895", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "loses to barack obama  where does donald trump pick up "
+          }
+        ]
+      }, 
+      "donald,president obama": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "loses to barack obama.\nwhere does donald trump pick up.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1895", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "loses to barack obama  where does donald trump pick up "
+          }
+        ]
+      }, 
+      "donald,republican": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "have a united unified republican\nparty, but i, donald trump won", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1180", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "have a united unified republican party  but i  donald trump won"
+          }
+        ]
+      }, 
+      "donald,republicans": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "have a united unified republican\nparty, but i, donald trump won", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1180", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "have a united unified republican party  but i  donald trump won"
+          }
+        ]
+      }, 
+      "donald,trump": {
+        "count": 17, 
+        "matching_caps": [
+          {
+            "cap": "donald trump's for the taking.\n>> don't think i would have run\nif i didn't think i would win.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1306", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "donald trump s for the taking     don t think i would have run if i didn t think i would win "
+          }, 
+          {
+            "cap": ">> all eyes on donald trump as\nkasich bows out of the race.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=624", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "   all eyes on donald trump as kasich bows out of the race "
+          }, 
+          {
+            "cap": ">> the campaign trail wide open\nfor donald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=753", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "   the campaign trail wide open for donald trump "
+          }, 
+          {
+            "cap": "white house.\nall eyes on donald trump after", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1291", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "white house  all eyes on donald trump after"
+          }, 
+          {
+            "cap": "the lord has a purpose for me.\n>> leaving donald trump the last", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1310", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "the lord has a purpose for me     leaving donald trump the last"
+          }, 
+          {
+            "cap": "donald trump.\nhe said he does not support", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1368", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "donald trump  he said he does not support"
+          }, 
+          {
+            "cap": "goes.\nbill: donald trump is the last", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1043", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "goes  bill  donald trump is the last"
+          }, 
+          {
+            "cap": "have a united unified republican\nparty, but i, donald trump won", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1180", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "have a united unified republican party  but i  donald trump won"
+          }, 
+          {
+            "cap": "parts of the party.\ndonald trump shifting gears to", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1350", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "parts of the party  donald trump shifting gears to"
+          }, 
+          {
+            "cap": "risk on a loose cannon like\ndonald trump running this", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1653", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "risk on a loose cannon like donald trump running this"
+          }, 
+          {
+            "cap": "about running against an unknown\nquantity like donald trump.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1821", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "about running against an unknown quantity like donald trump "
+          }, 
+          {
+            "cap": "and it worked for him.\ndonald trump is completely", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1837", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "and it worked for him  donald trump is completely"
+          }, 
+          {
+            "cap": "handle donald trump.\nbut monica is right.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1869", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "handle donald trump  but monica is right "
+          }, 
+          {
+            "cap": "loses to barack obama.\nwhere does donald trump pick up.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1895", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "loses to barack obama  where does donald trump pick up "
+          }, 
+          {
+            "cap": "because donald trump is such a\nunique personality, he can put", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1919", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "because donald trump is such a unique personality  he can put"
+          }, 
+          {
+            "cap": "i think donald trump can turn it\ninto a real race and she'll have", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1928", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "i think donald trump can turn it into a real race and she ll have"
+          }, 
+          {
+            "cap": "ohio, very competitive.\ndonald trump will compete in", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1947", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "ohio  very competitive  donald trump will compete in"
+          }
+        ]
+      }, 
+      "dorchester,michael": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "live outside a school in\ndorchester.\nmichael, parents must be", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1058", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "live outside a school in dorchester  michael  parents must be"
+          }
+        ]
+      }, 
+      "dorchester,nicole oliverio": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "dorchester.\nnicole oliverio.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1087", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "dorchester  nicole oliverio "
+          }
+        ]
+      }, 
+      "dow,nantucket": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "from boston down across the\nsouth shore, the cape and\nnantucket for that potential for", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1877", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "from boston down across the south shore  the cape and nantucket for that potential for"
+          }
+        ]
+      }, 
+      "fitchburg,new hampshire": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "49 in portsmouth, new hampshire,\n51 if you're lucky and fitchburg\nand that's one of the hot spots.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=147", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "49 in portsmouth  new hampshire  51 if you re lucky and fitchburg and that s one of the hot spots "
+          }
+        ]
+      }, 
+      "fitchburg,worcester": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "in worcester, fitchburg to\nnashua maybe we get you into the\nlower 50s today.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1978", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "in worcester  fitchburg to nashua maybe we get you into the lower 50s today "
+          }
+        ]
+      }, 
+      "foring hillary,hillary clinton": {
+        "count": 11, 
+        "matching_caps": [
+          {
+            "cap": "the governor will not vote for\ntrump or hillary clinton.\nbaker also expressed his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1327", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "the governor will not vote for trump or hillary clinton  baker also expressed his"
+          }, 
+          {
+            "cap": "they are politicians.\nhillary clinton told cnn trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1339", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "they are politicians  hillary clinton told cnn trump"
+          }, 
+          {
+            "cap": "democratic front-runner hillary\nclinton or g.o.p. presumtive", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1364", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "democratic front runner hillary clinton or g o p  presumtive"
+          }, 
+          {
+            "cap": "has his work cut out for him.\nhillary unleashes her attack,", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=69", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "has his work cut out for him  hillary unleashes her attack "
+          }, 
+          {
+            "cap": "brown all weigh in.\nhe said he hacked into hillary's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=84", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "brown all weigh in  he said he hacked into hillary s"
+          }, 
+          {
+            "cap": "the claim comes as hillary\nclinton was hoping she could", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=761", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "the claim comes as hillary clinton was hoping she could"
+          }, 
+          {
+            "cap": "and new details on the\npossibility hillary clinton", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=977", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "and new details on the possibility hillary clinton"
+          }, 
+          {
+            "cap": "judicial nominations.\nhillary clinton hillary clinton", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1225", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "judicial nominations  hillary clinton hillary clinton"
+          }, 
+          {
+            "cap": "he doesn't want his campaign to\nget as big as hillary clinton's", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1262", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "he doesn t want his campaign to get as big as hillary clinton s"
+          }, 
+          {
+            "cap": "every area of organization.\nhillary clinton has thought of", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1271", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "every area of organization  hillary clinton has thought of"
+          }, 
+          {
+            "cap": "noon and they tend to misfire.\nbill: crooked hillary and loose", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1679", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "noon and they tend to misfire  bill  crooked hillary and loose"
+          }
+        ]
+      }, 
+      "foring hillary,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "the governor will not vote for\ntrump or hillary clinton.\nbaker also expressed his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1327", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "the governor will not vote for trump or hillary clinton  baker also expressed his"
+          }, 
+          {
+            "cap": "they are politicians.\nhillary clinton told cnn trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1339", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "they are politicians  hillary clinton told cnn trump"
+          }
+        ]
+      }, 
+      "george w. bush,president": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "aren't backing him.\nboth bush presidents said they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1321", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "aren t backing him  both bush presidents said they"
+          }
+        ]
+      }, 
+      "george w. bush,presidential campaign.": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "aren't backing him.\nboth bush presidents said they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1321", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "aren t backing him  both bush presidents said they"
+          }
+        ]
+      }, 
+      "george w. bush.,president": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "aren't backing him.\nboth bush presidents said they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1321", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "aren t backing him  both bush presidents said they"
+          }
+        ]
+      }, 
+      "george w. bush.,presidential campaign.": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "aren't backing him.\nboth bush presidents said they", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1321", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "aren t backing him  both bush presidents said they"
+          }
+        ]
+      }, 
+      "hillary clinton,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "the governor will not vote for\ntrump or hillary clinton.\nbaker also expressed his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1327", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "the governor will not vote for trump or hillary clinton  baker also expressed his"
+          }, 
+          {
+            "cap": "they are politicians.\nhillary clinton told cnn trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1339", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "they are politicians  hillary clinton told cnn trump"
+          }
+        ]
+      }, 
+      "hillary,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "the governor will not vote for\ntrump or hillary clinton.\nbaker also expressed his", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1327", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "the governor will not vote for trump or hillary clinton  baker also expressed his"
+          }, 
+          {
+            "cap": "they are politicians.\nhillary clinton told cnn trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464123544.ff45e09d-a954-433c-9be2-3eebc6138da8.mp4#t=1339", 
+            "media_id": "572b6ed210af3c0005842131", 
+            "text": "they are politicians  hillary clinton told cnn trump"
+          }
+        ]
+      }, 
+      "justin bieber,texas": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "develop.\n>> gene: texas man suing\njustin bieber.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=478", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "develop     gene  texas man suing justin bieber "
+          }
+        ]
+      }, 
+      "massachusetts,police": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "of shooting another teen, police\nspent searching for the suspect\nin massachusetts and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1031", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "of shooting another teen  police spent searching for the suspect in massachusetts and"
+          }
+        ]
+      }, 
+      "massachusetts,police chief": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "of shooting another teen, police\nspent searching for the suspect\nin massachusetts and", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1031", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "of shooting another teen  police spent searching for the suspect in massachusetts and"
+          }
+        ]
+      }, 
+      "obama,trump": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "loses to barack obama.\nwhere does donald trump pick up.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1895", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "loses to barack obama  where does donald trump pick up "
+          }
+        ]
+      }, 
+      "officer,police": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": ">> daniel: police officer\ncaught on phone behind the wheel\nand meeting set to take place", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=733", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "   daniel  police officer caught on phone behind the wheel and meeting set to take place"
+          }, 
+          {
+            "cap": "police officer will have to\nanswer for it.\nyou can see a police officer", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=888", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "police officer will have to answer for it  you can see a police officer"
+          }, 
+          {
+            "cap": "have the police station when\nspotted the police officer in\nthe car.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=952", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "have the police station when spotted the police officer in the car "
+          }, 
+          {
+            "cap": "officer is using a cell phone\nwhile driving.\n>> reading police chief told", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=971", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "officer is using a cell phone while driving     reading police chief told"
+          }
+        ]
+      }, 
+      "officer,police chief": {
+        "count": 4, 
+        "matching_caps": [
+          {
+            "cap": ">> daniel: police officer\ncaught on phone behind the wheel\nand meeting set to take place", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=733", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "   daniel  police officer caught on phone behind the wheel and meeting set to take place"
+          }, 
+          {
+            "cap": "police officer will have to\nanswer for it.\nyou can see a police officer", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=888", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "police officer will have to answer for it  you can see a police officer"
+          }, 
+          {
+            "cap": "have the police station when\nspotted the police officer in\nthe car.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=952", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "have the police station when spotted the police officer in the car "
+          }, 
+          {
+            "cap": "officer is using a cell phone\nwhile driving.\n>> reading police chief told", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=971", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "officer is using a cell phone while driving     reading police chief told"
+          }
+        ]
+      }, 
+      "president obama,trump": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "loses to barack obama.\nwhere does donald trump pick up.", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1895", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "loses to barack obama  where does donald trump pick up "
+          }
+        ]
+      }, 
+      "president,trump": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "president,val": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "presidential campaign.,trump": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "presidential campaign.,val": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }, 
+      "republican,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "have a united unified republican\nparty, but i, donald trump won", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1180", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "have a united unified republican party  but i  donald trump won"
+          }, 
+          {
+            "cap": "trump.\nbill: former republican", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1308", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "trump  bill  former republican"
+          }
+        ]
+      }, 
+      "republicans,trump": {
+        "count": 2, 
+        "matching_caps": [
+          {
+            "cap": "have a united unified republican\nparty, but i, donald trump won", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1180", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "have a united unified republican party  but i  donald trump won"
+          }, 
+          {
+            "cap": "trump.\nbill: former republican", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464080648.abb82186-cad6-4f9b-beae-dfbc328da022.mp4#t=1308", 
+            "media_id": "572b6ed210af3c0005842130", 
+            "text": "trump  bill  former republican"
+          }
+        ]
+      }, 
+      "trump,val": {
+        "count": 1, 
+        "matching_caps": [
+          {
+            "cap": "thought i was going to win.\n>> consider a formal rival for\nvice president and trump", 
+            "link": "http://um-bubble.media.mit.edu:10022/static/1462464097165.8e88af72-e179-475c-8da9-2c2d5f91a5cc.mp4#t=1317", 
+            "media_id": "572b6ed210af3c0005842132", 
+            "text": "thought i was going to win     consider a formal rival for vice president and trump"
+          }
+        ]
+      }
+    }, 
+    "sets_length": 77, 
+    "short_strings": {
+      "aarp": "aarp", 
+      "adam caplan": "adam caplan", 
+      "afghanistan": "afghanistan", 
+      "airbnb": "airbnb", 
+      "ali baba": "ali baba", 
+      "alibaba": "alibaba", 
+      "allergies": "allergies", 
+      "allison": "allison", 
+      "alzheimer": "alzheimer", 
+      "amazon": "amazon", 
+      "america": "america", 
+      "arkansas": "arkansas", 
+      "asthma": "asthma", 
+      "athens": "athens", 
+      "barry diller": "barry diller", 
+      "bernie sanders": "bernie sanders", 
+      "bill clinton": "bill clinton", 
+      "bill o'reilly": "bill o'reilly", 
+      "blood pressure": "blood pressure", 
+      "boston": "boston", 
+      "boston police department": "boston", 
+      "braintree": "braintree", 
+      "broncos": "broncos", 
+      "bucs": "bucs", 
+      "bush": "bush", 
+      "california": "california", 
+      "canada": "canada", 
+      "carly": "carly", 
+      "cash flow": "cash flow", 
+      "cavaliers": "val", 
+      "cayenne": "cayenne", 
+      "cbs": "cbs", 
+      "celtics": "celtics", 
+      "ceo": "ceo", 
+      "cfpb": "cfpb", 
+      "chairman": "chairman", 
+      "cheryl fiandaca": "cheryl fiandaca", 
+      "china": "china", 
+      "chris bosh": "chris bosh", 
+      "christmas": "christmas", 
+      "citi.": "citi.", 
+      "cleveland": "cleveland", 
+      "clintons": "clintons", 
+      "congress": "congress", 
+      "constitution hall": "constitution hall", 
+      "daniel miller": "daniel miller", 
+      "danielle gersh.": "danielle gersh.", 
+      "dave mcmenamin": "dave mcmenamin", 
+      "david": "david", 
+      "dedham": "dedham", 
+      "demar": "demar", 
+      "democrat": "democrat", 
+      "democratic party": "democrat", 
+      "democrats": "democrat", 
+      "denver": "denver", 
+      "deputy chief of staff": "deputy chief of staff", 
+      "diabetes": "diabetes", 
+      "diarrhea": "diarrhea", 
+      "digital advertising": "digital advertising", 
+      "directv": "directv", 
+      "donald": "donald", 
+      "donald trump": "trump", 
+      "dorchester": "dorchester", 
+      "dow": "dow", 
+      "dunkin": "dunkin", 
+      "dwyane wade": "dwyane wade", 
+      "espn": "espn", 
+      "europe": "europe", 
+      "expedia": "expedia", 
+      "fbi": "fbi", 
+      "fitchburg": "fitchburg", 
+      "flames": "flames", 
+      "florida": "florida", 
+      "foring hillary": "hillary", 
+      "frontline plus": "frontline plus", 
+      "gavin creel": "gavin creel", 
+      "geebo": "geebo", 
+      "general motors": "general motors", 
+      "george w. bush": "bush", 
+      "george w. bush.": "bush", 
+      "gop primary": "gop primary", 
+      "hawks": "hawks", 
+      "headache": "headache", 
+      "health insurance": "health insurance", 
+      "heartburn": "heartburn", 
+      "hillary": "hillary", 
+      "hillary clinton": "hillary", 
+      "hockey": "hockey", 
+      "holy grail": "holy grail", 
+      "honda accord": "honda accord", 
+      "hughesnet": "hughesnet", 
+      "illinois": "illinois", 
+      "ilona": "ilona", 
+      "intensive care": "intensive care", 
+      "interest rates": "interest rates", 
+      "iraq": "iraq", 
+      "j.r. smith": "j.r. smith", 
+      "jane krakowski": "jane krakowski", 
+      "janet yellen": "janet yellen", 
+      "jeff smith": "jeff smith", 
+      "jennifer eagan": "jennifer eagan", 
+      "joe cy": "joe cy", 
+      "john bell": "john bell", 
+      "john kasich": "john kasich", 
+      "johnny manziel": "johnny manziel", 
+      "jon bon jovi": "jon bon jovi", 
+      "justin bieber": "justin bieber", 
+      "karl rove": "karl rove", 
+      "kay": "kay", 
+      "kay jewelers": "kay", 
+      "kentucky": "kentucky", 
+      "kickers": "kickers", 
+      "kris anderson": "kris anderson", 
+      "kyle lowry": "lowry", 
+      "kyrie irving": "kyrie irving", 
+      "league": "league", 
+      "lebron": "lebron", 
+      "lisa concernie": "lisa concernie", 
+      "lowell": "lowell", 
+      "lowell sun": "lowell", 
+      "lowry": "lowry", 
+      "mark sanchez": "mark sanchez", 
+      "martha": "martha", 
+      "massachusetts": "massachusetts", 
+      "medicare": "medicare", 
+      "miami": "miami", 
+      "michael": "michael", 
+      "michigan": "michigan", 
+      "microsoft": "microsoft", 
+      "monmouth": "monmouth", 
+      "muddle": "muddle", 
+      "nancy chin.": "nancy chin.", 
+      "nantucket": "nantucket", 
+      "nba": "nba", 
+      "new hampshire": "new hampshire", 
+      "new york": "new york", 
+      "new york times": "new york", 
+      "newt gingrich": "newt gingrich", 
+      "nicole briscoe": "nicole briscoe", 
+      "nicole oliverio": "nicole oliverio", 
+      "norwood": "norwood", 
+      "obama": "obama", 
+      "officer": "officer", 
+      "paxton lynch": "paxton lynch", 
+      "peabody": "peabody", 
+      "peter johnson": "peter johnson", 
+      "pinky": "pinky", 
+      "plato": "plato", 
+      "police": "police", 
+      "police chief": "police", 
+      "president": "president", 
+      "president obama": "obama", 
+      "presidential campaign.": "president", 
+      "ralph nader": "ralph nader", 
+      "rebecca gregory": "rebecca gregory", 
+      "reilly michelle": "reilly michelle", 
+      "republican": "republican", 
+      "republicans": "republican", 
+      "rhode island": "rhode island", 
+      "saddam hussein": "saddam hussein", 
+      "sam bradford": "sam bradford", 
+      "san bernardino": "san bernardino", 
+      "scientist": "scientist", 
+      "scout": "scout", 
+      "senate": "senate", 
+      "senator bernie sanders": "bernie sanders", 
+      "senator scott brown": "senator scott brown", 
+      "sodastream": "sodastream", 
+      "south carolina": "south carolina", 
+      "sox": "sox", 
+      "stock market": "stock market", 
+      "summer": "summer", 
+      "summerville": "summer", 
+      "td ameritrade": "td ameritrade", 
+      "ted cruz": "ted cruz", 
+      "tesla": "tesla", 
+      "texas": "texas", 
+      "tim cook": "tim cook", 
+      "tim geithner": "tim geithner", 
+      "tom penn": "tom penn", 
+      "toronto": "toronto", 
+      "travelocity": "travelocity", 
+      "tribune.": "tribune.", 
+      "trump": "trump", 
+      "u.s. navy seal": "u.s. navy seal", 
+      "unitedhealthcare insurance company": "unitedhealthcare insurance company", 
+      "val": "val", 
+      "voya": "voya", 
+      "wall street journal": "wall street journal", 
+      "wash.": "wash.", 
+      "washington": "washington", 
+      "washington journal": "washington", 
+      "west virginia": "west virginia", 
+      "weymouth": "weymouth", 
+      "worcester": "worcester", 
+      "yahoo": "yahoo", 
+      "yankees": "yankees", 
+      "zales": "zales", 
+      "zynga": "zynga"
+    }, 
+    "top_entites": [
+      "donald trump", 
+      "california", 
+      "president", 
+      "republicans", 
+      "canada", 
+      "america", 
+      "texas", 
+      "new york", 
+      "braintree", 
+      "hillary", 
+      "obama", 
+      "david", 
+      "trump", 
+      "bernie sanders", 
+      "hughesnet", 
+      "lebron", 
+      "tim geithner", 
+      "travelocity", 
+      "chairman", 
+      "allison", 
+      "holy grail", 
+      "digital advertising", 
+      "airbnb", 
+      "jeff smith", 
+      "dow", 
+      "medicare", 
+      "val", 
+      "voya", 
+      "aarp", 
+      "ali baba", 
+      "ceo", 
+      "tribune.", 
+      "cash flow", 
+      "yahoo", 
+      "alibaba", 
+      "china", 
+      "senate", 
+      "carly", 
+      "hillary clinton", 
+      "zynga", 
+      "cbs", 
+      "dedham", 
+      "michigan", 
+      "microsoft", 
+      "sodastream", 
+      "peabody", 
+      "officer", 
+      "tim cook", 
+      "janet yellen", 
+      "unitedhealthcare insurance company", 
+      "norwood", 
+      "europe", 
+      "dorchester", 
+      "alzheimer", 
+      "stock market", 
+      "joe cy", 
+      "america", 
+      "washington", 
+      "amazon", 
+      "tesla", 
+      "interest rates", 
+      "massachusetts", 
+      "new hampshire", 
+      "worcester", 
+      "boston", 
+      "barry diller", 
+      "expedia", 
+      "police", 
+      "td ameritrade", 
+      "hockey", 
+      "bucs", 
+      "kay jewelers", 
+      "j.r. smith", 
+      "zales", 
+      "denver", 
+      "adam caplan", 
+      "nicole briscoe", 
+      "kyle lowry", 
+      "espn", 
+      "mark sanchez", 
+      "kickers", 
+      "tom penn", 
+      "toronto", 
+      "dunkin", 
+      "league", 
+      "scout", 
+      "nba", 
+      "chris bosh", 
+      "michael", 
+      "lisa concernie", 
+      "athens", 
+      "president obama", 
+      "fbi", 
+      "illinois", 
+      "george w. bush.", 
+      "general motors", 
+      "monmouth", 
+      "bill clinton", 
+      "presidential campaign.", 
+      "saddam hussein", 
+      "jon bon jovi", 
+      "west virginia", 
+      "washington journal", 
+      "democratic party", 
+      "congress", 
+      "ralph nader", 
+      "democrats", 
+      "foring hillary", 
+      "rhode island", 
+      "directv", 
+      "constitution hall", 
+      "iraq", 
+      "hawks", 
+      "kay", 
+      "miami", 
+      "diabetes", 
+      "scientist", 
+      "christmas", 
+      "gop primary", 
+      "peter johnson", 
+      "kyrie irving", 
+      "lowry", 
+      "u.s. navy seal", 
+      "blood pressure", 
+      "wall street journal", 
+      "senator bernie sanders", 
+      "newt gingrich", 
+      "dave mcmenamin", 
+      "cavaliers", 
+      "asthma", 
+      "afghanistan", 
+      "intensive care", 
+      "donald", 
+      "bill o'reilly", 
+      "deputy chief of staff", 
+      "nicole oliverio", 
+      "health insurance", 
+      "cayenne", 
+      "johnny manziel", 
+      "demar", 
+      "heartburn", 
+      "sam bradford", 
+      "boston police department", 
+      "martha", 
+      "karl rove", 
+      "daniel miller", 
+      "sox", 
+      "ted cruz", 
+      "geebo", 
+      "frontline plus", 
+      "rebecca gregory", 
+      "cfpb", 
+      "citi.", 
+      "wash.", 
+      "broncos", 
+      "summer", 
+      "headache", 
+      "democrat", 
+      "republican", 
+      "nancy chin.", 
+      "cheryl fiandaca", 
+      "dwyane wade", 
+      "celtics", 
+      "allergies", 
+      "honda accord", 
+      "summerville", 
+      "kentucky", 
+      "police chief", 
+      "bush", 
+      "muddle", 
+      "florida", 
+      "kris anderson", 
+      "diarrhea", 
+      "john bell", 
+      "fitchburg", 
+      "new york times", 
+      "gavin creel", 
+      "ilona", 
+      "jennifer eagan", 
+      "george w. bush", 
+      "jane krakowski", 
+      "plato", 
+      "south carolina", 
+      "flames", 
+      "senator scott brown", 
+      "pinky", 
+      "lowell sun", 
+      "san bernardino", 
+      "weymouth", 
+      "lowell", 
+      "clintons", 
+      "justin bieber", 
+      "reilly michelle", 
+      "arkansas", 
+      "yankees", 
+      "cleveland", 
+      "paxton lynch", 
+      "danielle gersh.", 
+      "nantucket", 
+      "john kasich"
+    ]
+  }
+}
