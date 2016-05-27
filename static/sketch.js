@@ -23,7 +23,7 @@ var minDim;
 
 var selected  = -1;
 var offset = 0;
-var numOfEntitiesToShow = 35;
+
 
 //var loadLocal = true;
 //hasSuperGlueData = false
@@ -37,8 +37,8 @@ var typesList = {};
 function preload() {
   getSuperGlueData();
   
-  robotoFont = loadFont('assets/Roboto-Regular.ttf');
-  robotoFontBold = loadFont('assets/Roboto-Bold.ttf');
+  robotoFont = loadFont('static/assets/Roboto-Regular.ttf');
+  robotoFontBold = loadFont('static/assets/Roboto-Bold.ttf');
 }
 
 var grid;
@@ -78,7 +78,7 @@ function draw() {
 
   background(bgColor)
   drawTitle()
-  drawExplenations()
+  //drawExplenations()
 
   // Update the physics world
   physics.update();
@@ -100,9 +100,6 @@ function checkRefresh() {
     }
 }
 
-function getCachedData() {
-
-}
 
 function drawTitle() {
   if (showTitle){
@@ -151,43 +148,6 @@ function drawExplenations() {
 
 
 function getSuperGlueData() {
-  // print ('1')
-  // var getUrlData = false;
-  // print ('2')
-  // cachedData = localStorage.getItem( 'data' )
-  // print ('3 '+cachedData.length+ ' '+cachedData)
-  // if (cachedData=='[]') {
-  //   print ('4')
-  //   getUrlData = true;
-  // }
-  // else {
-  //   print ('5')
-  //   //currData = ( JSON.parse(cachedData) );
-  //   var timestamp = Date.parse(localStorage.getItem( 'timestamp' ));
-  //   var now = new Date().getTime();
-  //   var timeThreshold = 1000*60*60*6;
-  //   if (now-timestamp>timeThreshold) {
-  //     print ('6')
-  //     getUrlData = true
-  //   }
-  //   print ('7')
-  // }
-  // if (getUrlData) {
-  //   print ('8')
-  //     print ('9')
-  //     var url = 'http://super-glue.media.mit.edu/frequent_itemsets' //?window=2'
-  //     print ('10')
-  //     data = loadJSON(encodeURI(url), successLoadingUrl, function() {
-  //       print ("error loading url")
-  //       data = loadJSON('data/data-05-18.json')
-  //     })
-  //     print ('11')
-  // }
-  // else {
-  //   print ('14')
-  //   data = ( JSON.parse( cachedData ) );
-  // }
-  // print ('15')
   console.log ("data:")
   console.log(superGlueData["results"])
   superGlueloadCallback(superGlueData);
@@ -211,6 +171,7 @@ function superGlueloadCallback(data) {
   maxCount = results.scored_entities[offset][1].score
   allEntities = results.scored_entities
   typesList = results.types
+  numOfEntitiesToShow = min(40, allEntities.length)
 
   entitiesMatrix = results.sets;
   // calcualte max pair count // needed??

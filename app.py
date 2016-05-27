@@ -1,4 +1,5 @@
 import itertools
+import json
 import random
 import re
 import os
@@ -6,16 +7,29 @@ import operator
 import time
 from flask import Flask, render_template, jsonify
 import mongo_connection
+from flask.ext.cacheify import init_cacheify
 
 app = Flask(__name__)
 
+cache = init_cacheify(app)
+
 @app.route('/')
 def index():
-	# the code below is executed if the request method
-    # was GET or the credentials were invalid
-    super_glue_data = frequent_itemsets()
-    #print (super_glue_data)
+    super_glue_data = get_data()
     return render_template('index.html', super_glue_data=super_glue_data)
+
+def get_data():
+    print (cache)
+    data = cache.get('data')
+    last_cached = cache.get('last_cached')
+    print (data)
+    print (last_cached)
+    if data is None or last_cached-millis()>DAY:
+        data = frequent_itemsets()
+        timestamp = millis()
+        cache.set('data', data, timeout=5 * 60)
+        cache.set('last_cached', timestamp, timeout=5 * 60)
+    return data
 
 def millis():
     return int(round(time.time() * 1000))
@@ -29,7 +43,7 @@ def frequent_itemsets():
     print ("starting frequent_itemsets")
     startTime = millis()
     window = '1' #int(request.args.get('window', default='1'))
-    limit = 10 #200 #int(request.args.get('limit', default=200))
+    limit = 100 #200 #int(request.args.get('limit', default=200))
     with_replacement = True #bool(request.args.get('with_replacement', default=True))
     clean_dups = True #bool (request.args.get('clean_dups', default=True))
     aligned = False #bool (request.args.get('aligned', default=False))
@@ -111,12 +125,14 @@ def frequent_itemsets():
     supp = {}
     print ("seceond aggregation done")
     captions_list = []
+    punctuation = '!"\'#$%&()*+,-./:;<=>?@[\\]^_{|}~'
+    regex = re.compile('[%s]' % re.escape(punctuation))
     for doc in cursor:
         cap = doc[captions]["text"].lower()
         link = doc["media_url"]+"#t="+str(int(doc[captions]["start"]/1000))
         media_id = str(doc["_id"])
         captions_list.append({
-            "cap":cap,
+            "cap":re.sub('\n',' ',regex.sub('',cap)), # removing punctuation
             "link": link,
             "media_id": media_id,
             "text":re.sub(r'[^\w]', ' ', cap) 
@@ -158,7 +174,7 @@ def frequent_itemsets():
     print ("finished del keys")
     total_time = millis() - startTime
     scored_entities_arr =  sorted(top_entities_scored.items(), key=lambda (x, y): y['score'], reverse=True)
-    return {"results": {
+    ret_val = {"results": {
                 "top_entites": top_entities,
                 "sets": combs,
                 "sets_length": len(combs),
@@ -177,6 +193,7 @@ def frequent_itemsets():
                         "with_replacement": with_replacement
                 }
             }
+    return (json.dumps(ret_val))
 
 def are_same_entitiy (entity_1, entity_2, entities_dict):
      # TODO: create a list of couples to enforce
@@ -192,3 +209,4 @@ def are_same_entitiy (entity_1, entity_2, entities_dict):
 
 if __name__ == '__main__':
     app.run(debug=True)
+

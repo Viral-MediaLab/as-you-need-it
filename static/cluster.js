@@ -224,7 +224,7 @@ function Cluster(n,d,nodes, connectionsMatrix) {
             strokeWeight(3);
           }
           else {
-            stroke(255, 160);
+            stroke(255, 80);
             strokeWeight(1);
           }
           line(this.nodes[i].x, this.nodes[i].y, this.nodes[j].x, this.nodes[j].y);
@@ -257,6 +257,7 @@ Cluster.getStartBbox = function(){
 }
 function getSvdMinMax(adjancyMatrix) {
   svdResult = numeric.svd(sMatrix);
+  console.log(svdResult)
   r = {}
   r.svdMatrix = svdResult
   r.minX = 100

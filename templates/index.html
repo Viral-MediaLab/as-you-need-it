@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <title>Viral Communications - As You Need It</title>
-    <script src="{{ url_for('static', filename='libraries/p5.js') }}" type="text/javascript"></script>
 
+    <script src="{{ url_for('static', filename='libraries/p5.js') }}" type="text/javascript"></script>
     <script src="{{ url_for('static', filename='libraries/p5.dom.js') }}" type="text/javascript"></script>
     <script src="{{ url_for('static', filename='libraries/p5.sound.js') }}" type="text/javascript"></script>
     <script src="{{ url_for('static', filename='libraries/numeric-1.2.6.js') }}" type="text/javascript"></script>
@@ -13,8 +13,10 @@
     <script src="{{ url_for('static', filename='libraries/chroma.min.js') }}" type="text/javascript"></script>
 
     <script>
-      var superGlueData = '{{ super_glue_data|tojson }}';
-      console.log(superGlueData["results"])
+      var dict = '{{ super_glue_data|safe }}'
+      var superGlueData = JSON.parse(dict)
+      var numOfEntitiesToShow;
+      console.log(superGlueData)
       //console.log(superGlueData)
     </script>
     
