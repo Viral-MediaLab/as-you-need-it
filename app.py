@@ -45,8 +45,8 @@ def frequent_itemsets():
     window = '1' #int(request.args.get('window', default='1'))
     limit = 100 #200 #int(request.args.get('limit', default=200))
     with_replacement = True #bool(request.args.get('with_replacement', default=True))
-    clean_dups = True #bool (request.args.get('clean_dups', default=True))
-    aligned = False #bool (request.args.get('aligned', default=False))
+    clean_dups = False #bool (request.args.get('clean_dups', default=True))
+    aligned = True #bool (request.args.get('aligned', default=False))
 
     # get top entities
     top_entities = []
@@ -115,10 +115,11 @@ def frequent_itemsets():
     num_entities = len(top_entities)
     print ("num_entities %d"%num_entities)
     # find items
-    captions = "closed_captions_aligned"
+    captions = "closed_captions_no_comm"
+    media = "media_url_no_comm"
     pipeline = [
             {"$match": {"date_added": {"$gt": millis_since(window)}}},
-            {"$project": {captions: 1, "media_url":1}},
+            {"$project": {captions: 1, media:1}},
             {"$unwind": "$"+captions}
         ]
     cursor = mongo_connection.db["media"].aggregate(pipeline)
@@ -129,7 +130,7 @@ def frequent_itemsets():
     regex = re.compile('[%s]' % re.escape(punctuation))
     for doc in cursor:
         cap = doc[captions]["text"].lower()
-        link = doc["media_url"]+"#t="+str(int(doc[captions]["start"]/1000))
+        link = doc[media]+"#t="+str(int(doc[captions]["start"]/1000))
         media_id = str(doc["_id"])
         captions_list.append({
             "cap":re.sub('\n',' ',regex.sub('',cap)), # removing punctuation
