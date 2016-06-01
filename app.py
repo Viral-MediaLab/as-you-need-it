@@ -42,7 +42,7 @@ def millis_since(num_days='1'):
 def frequent_itemsets():
     print ("starting frequent_itemsets")
     startTime = millis()
-    window = '1' #int(request.args.get('window', default='1'))
+    window = '1' # time window of recent news
     limit = 100 #200 #int(request.args.get('limit', default=200))
     with_replacement = True #bool(request.args.get('with_replacement', default=True))
     clean_dups = False #bool (request.args.get('clean_dups', default=True))
