@@ -7,29 +7,22 @@ import operator
 import time
 from flask import Flask, render_template, jsonify
 import mongo_connection
-from flask.ext.cacheify import init_cacheify
+#from flask.ext.cacheify import init_cacheify
+from apscheduler.schedulers.background import BackgroundScheduler
 
 app = Flask(__name__)
 
-cache = init_cacheify(app)
+#cache = init_cacheify(app)
+
+@app.before_first_request
+def initialize():
+    scheduler = BackgroundScheduler()
+    scheduler.add_job(frequent_itemsets, 'interval', hours=5)
+    scheduler.start()
 
 @app.route('/')
 def index():
-    super_glue_data = get_data()
-    return render_template('index.html', super_glue_data=super_glue_data)
-
-def get_data():
-    print (cache)
-    data = cache.get('data')
-    last_cached = cache.get('last_cached')
-    print (data)
-    print (last_cached)
-    if data is None or last_cached-millis()>DAY:
-        data = frequent_itemsets()
-        timestamp = millis()
-        cache.set('data', data, timeout=5 * 60)
-        cache.set('last_cached', timestamp, timeout=5 * 60)
-    return data
+    return render_template('index.html')
 
 def millis():
     return int(round(time.time() * 1000))
@@ -194,6 +187,8 @@ def frequent_itemsets():
                         "with_replacement": with_replacement
                 }
             }
+    with open('static/data.json', 'w') as outfile:
+        json.dump(ret_val, outfile)
     return (json.dumps(ret_val))
 
 def are_same_entitiy (entity_1, entity_2, entities_dict):

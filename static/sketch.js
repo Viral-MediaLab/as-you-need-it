@@ -148,9 +148,10 @@ function drawExplenations() {
 
 
 function getSuperGlueData() {
-  console.log ("data:")
-  console.log(superGlueData["results"])
-  superGlueloadCallback(superGlueData);
+  //console.log ("data:")
+  //console.log(superGlueData["results"])
+  loadJSON("/static/data.json", superGlueloadCallback);
+  //superGlueloadCallback(superGlueData);
 }
 
 function successLoadingUrl(data) {
