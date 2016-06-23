@@ -1,3 +1,4 @@
+APScheduler==3.2.0
 Flask==0.10.1
 Flask-Cache==0.13.1
 Flask-Heroku-Cacheify==1.5
