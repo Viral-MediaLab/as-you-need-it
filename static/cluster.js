@@ -109,6 +109,10 @@ function Cluster(n,d,nodes, connectionsMatrix) {
   }
   
   this.moveSelectedPair = function(i) {
+    // Unhighlight all nodes so moving is faster
+    for (j=0; j<this.nodes.length; j++){
+      this.nodes[j].unhighlight()
+    }
     if (i==selectedPair) {
       selected = i
       selectedPair = -1
@@ -143,6 +147,10 @@ function Cluster(n,d,nodes, connectionsMatrix) {
   }
   
   this.moveAllAccordingToSelected = function() {
+    // Unhighlight all nodes so moving is faster
+    for (j=0; j<this.nodes.length; j++){
+      this.nodes[j].unhighlight()
+    }
      //currVid.hide();
       currVid.setLink("")
       currVid.show();
