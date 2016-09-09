@@ -17,7 +17,7 @@ app = Flask(__name__)
 @app.before_first_request
 def initialize():
     scheduler = BackgroundScheduler()
-    scheduler.add_job(frequent_itemsets, 'interval', hours=2) #change hours to 5
+    scheduler.add_job(frequent_itemsets, 'interval', hours=5)
     scheduler.start()
 
 @app.route('/')
@@ -35,7 +35,7 @@ def millis_since(num_days='1'):
 def frequent_itemsets():
     print ("starting frequent_itemsets")
     startTime = millis()
-    window = '3' # time window of recent news # change window to 1
+    window = '1' # time window of recent news
     limit = 100 #200 #int(request.args.get('limit', default=200))
     with_replacement = True #bool(request.args.get('with_replacement', default=True))
     clean_dups = False #bool (request.args.get('clean_dups', default=True))
