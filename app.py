@@ -13,7 +13,9 @@ from apscheduler.schedulers.background import BackgroundScheduler
 app = Flask(__name__)
 
 #cache = init_cacheify(app)
-
+def print_date_time():
+    print time.strftime("%A, %d. %B %Y %I:%M:%S %p")
+    
 @app.before_first_request
 def initialize():
     scheduler = BackgroundScheduler()

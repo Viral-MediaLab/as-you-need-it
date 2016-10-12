@@ -36,7 +36,7 @@ var typesList = {};
 
 function preload() {
   getSuperGlueData();
-  
+
   robotoFont = loadFont('static/assets/Roboto-Regular.ttf');
   robotoFontBold = loadFont('static/assets/Roboto-Bold.ttf');
 }
@@ -47,7 +47,7 @@ function setup() {
   lastRefresh = new Date();
   createCanvas(windowWidth, windowHeight)
   minDim = min([width, height])
-  
+
   grid = new Grid(36, // px, top margin
     36, // px, bottom margin
     36, // px, left margin
@@ -61,10 +61,10 @@ function setup() {
   // Initialize the physics
   physics=new VerletPhysics2D();
 
-  
-  
+
+
   currVid = new Video()
-  
+
   createNumbersMatrix()
   cluster = new Cluster(8, 200, allEntities, numbersMatrix);
 
@@ -82,13 +82,13 @@ function draw() {
 
   // Update the physics world
   physics.update();
-  
+
   cluster.showConnections();
   currVid.display();
   cluster.display();
-  
+
   checkRefresh()
-  
+
   //grid.display();
 }
 
@@ -121,7 +121,7 @@ function drawTitle() {
     textSize(grid.rowheight()/2)
     textFont (robotoFontBold)
     textStyle(BOLD)
-    text("Visualizing the News", currVid.x+currVid.w/2, currVid.y+grid.rowheight())
+    text("News Graph", currVid.x+currVid.w/2, currVid.y+grid.rowheight())
     textSize(grid.rowheight()/3)
     textFont (robotoFont)
     text (dateString,  currVid.x+currVid.w/2, currVid.y+grid.rowheight()*2)
@@ -141,7 +141,7 @@ function drawExplenations() {
     string = "Click on the different circles to explore their\n"+
     "connections and watch the corrosponding video.\n"+
     "A second click on the selected circle will take you back to the main screen."
-    
+
     text(string, grid.margin.left, grid.margin.top)
   pop()
 }
@@ -193,7 +193,7 @@ function errorCallback(response) {
   else {
     loadJSON('data/data-05-15.json', superGlueloadCallback);
   }
-  
+
 }
 
 function createNumbersMatrix() {
@@ -229,7 +229,7 @@ function Button (string, x, y) {
   this.y = y
   this.string = string
   this.font = robotoFont
-  
+
   this.display = function() {
     push()
     textAlign(LEFT,TOP)
