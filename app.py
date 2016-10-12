@@ -7,7 +7,6 @@ import operator
 import time
 from flask import Flask, render_template, jsonify
 import mongo_connection
-#from flask.ext.cacheify import init_cacheify
 from apscheduler.schedulers.background import BackgroundScheduler
 
 app = Flask(__name__)
@@ -15,7 +14,7 @@ app = Flask(__name__)
 #cache = init_cacheify(app)
 def print_date_time():
     print time.strftime("%A, %d. %B %Y %I:%M:%S %p")
-    
+
 @app.before_first_request
 def initialize():
     scheduler = BackgroundScheduler()
@@ -131,8 +130,8 @@ def frequent_itemsets():
             "cap":re.sub('\n',' ',regex.sub('',cap)), # removing punctuation
             "link": link,
             "media_id": media_id,
-            "text":re.sub(r'[^\w]', ' ', cap) 
-            })      
+            "text":re.sub(r'[^\w]', ' ', cap)
+            })
     print ("for loop")
     count = 0
     print (len(top_entities_combinations))
@@ -200,11 +199,10 @@ def are_same_entitiy (entity_1, entity_2, entities_dict):
     # TODO: create a list of couples to ignore
     ignore_words = ["president", "tim", "donald trump ryan", "new york times", "senate", "sara", "republican national committee headquarters", "paul ryan justice"]
     for word in enforced_words:
-        if  (word in entity_1 and word in entity_2 and entity_1!=entity_2 
+        if  (word in entity_1 and word in entity_2 and entity_1!=entity_2
             and entity_1 not in ignore_words and entity_2 not in ignore_words):
             return True
     return False
 
 if __name__ == '__main__':
     app.run(debug=True)
-
