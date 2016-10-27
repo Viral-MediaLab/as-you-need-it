@@ -33,6 +33,13 @@ def millis_since(num_days='1'):
     days = int(os.environ.get('TIME_FRAME_DAYS', num_days))
     return millis() - days*DAY #debugging - millis week
 
+@app.route('/data')
+def data():
+    with open('static/data/data.json') as json_data:
+		d = json.load(json_data)
+	return jsonify(d)
+
+
 def frequent_itemsets():
     print ("starting frequent_itemsets")
     startTime = millis()
