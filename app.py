@@ -37,7 +37,7 @@ def millis_since(num_days='1'):
 def data():
     with open('static/data/data.json') as json_data:
 		d = json.load(json_data)
-	return jsonify(d)
+    return jsonify(d)
 
 
 def frequent_itemsets():
