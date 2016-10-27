@@ -35,7 +35,7 @@ def millis_since(num_days='1'):
 
 @app.route('/data')
 def data():
-    with open('static/data/data.json') as json_data:
+    with open('static/data.json') as json_data:
 		d = json.load(json_data)
     return jsonify(d)
 
