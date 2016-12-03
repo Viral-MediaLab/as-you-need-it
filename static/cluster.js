@@ -1,10 +1,3 @@
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
-
-// Force directed graph
-// Heavily based on: http://code.google.com/p/fidgen/
-
 var currSvdResult;
 var selectedPair = -1;
 var tempSpring;
